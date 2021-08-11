@@ -5,7 +5,7 @@ permalink: '/'
 ---
 ### Kunisada
 
-![](/images/prints/P.480-1937.jpg)
+![](/images/prints/p.480-1937.jpg)
 
 Kunisada (1786-1865) was the most prolific and commercially-successful of all woodblock print designers. Although he designed many prints of beauties, Kabuki actors were his main speciality and formed about 70% of his output.
 
@@ -17,7 +17,7 @@ Surimono combine images and poems and were often commissioned by poetry clubs as
 
 ### Floating-world pictures (ukiyo-e)
 
-![](/images/prints/P.505-1937.jpg)
+![](/images/prints/p.505-1937.jpg)
 
 Kabuki theatre was the most vibrant manifestation of the extraordinary 'floating world' of pleasure that developed under the military dictatorship of the Tokugawa shogun during the Edo period (1603-1868).
 
@@ -27,7 +27,7 @@ Accordingly the prints were nearly always published to coincide with particular 
 
 ### Kabuki
 
-![](/images/prints/P.489-1937.jpg)
+![](/images/prints/p.489-1937.jpg)
 
 Kabuki originated at the start of the Edo period and developed into an elaborate stage spectacle with complex plots and spectacular productions. Although there were also thriving theatres in Kyoto and Osaka, Edo (Tokyo) was the major centre with three licensed main theatres designated as the Edo sanza ('Edo's three theatres'): the Ichimura, Morita and Nakamura. Because of recurring financial problems, the Morita theatre was periodically closed (1819-22, 1823-33, 1837-56) and productions were then staged instead at the Kawarazaki Theatre. As part of the Tempo Reforms the theatres were all relocated in 1841/2 to an area near Asakusa Temple that was renamed Saruwaka Street.
 
@@ -37,7 +37,7 @@ Performances continued all day, with some acts serving as comic or dance interlu
 
 ### Superstars of stage and society
 
-![](/images/prints/P.501-1937.jpg)
+![](/images/prints/p.501-1937.jpg)
 
 In exploiting the phenomenal public fascination with professional Kabuki actors, ukiyo-e artists and publishers fanned the flames of their popularity. Together with the most exclusive prostitutes of the Yoshiwara, the actors became cultural icons, and their near-legendary names passed from one generation to another. Stars such as Danjuro VII had massive fan clubs and supplemented their huge earnings by endorsing products with their names. The ban on women performers, first enforced in 1629 to discourage licentiousness, meant that female roles, frequently intended to represent the most beautiful courtesans, had to be taken by male actors. These specialists took their female impersonations so seriously that they continued to play the part of a woman in their lives outside the theatre, going so far as to enter the women's side of public bathhouses. Leading female impersonators (onnagata) such as Segawa Kikunojo V and Iwai Kumesaburo II became superstars, even setting trends in female fashion and influencing the way women behaved in society.
 

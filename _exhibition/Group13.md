@@ -2,11 +2,11 @@
 title: Actors backstage
 permalink: /exhibition/group-13
 layout: default
-image: /images/prints/P.87-1999.jpg
+image: /images/prints/p.87-1999.jpg
 ---
 
-![Kunisada Loan](/images/prints/Kunisada_Loan_book_plate.jpg)
+![Kunisada Loan](/images/prints/kunisada_loan_book_plate.jpg)
 (KUN/bookplate.htm)
 
-![Kunisada Image](/images/prints/P.87-1999.jpg)
+![Kunisada Image](/images/prints/p.87-1999.jpg)
 (KUN/kunp87.htm)

@@ -2,11 +2,11 @@
 category: Kunisada
 title: Mirror format prints
 layout: default
-image: /images/prints/P.78-1999.jpg
+image: /images/prints/p.78-1999.jpg
 permalink: /exhibition/group-11
 ---
 
-![Kunisada Image](/images/prints/P.78-1999.jpg)
+![Kunisada Image](/images/prints/p.78-1999.jpg)
 
 #### Ichikawa Kodanji IV (Beisho) as Osho Kichisa in _Sannin Kichisa kuruwa no hatsugai_, performed at the Ichimura theatre from 01/14/1860
 {: .display-5 .text-info }
@@ -18,7 +18,7 @@ This print commemorates the first performance of this _kizewamono_ (raw domestic
 
 This is from a luxury edition on thick paper with special printing effects, including blind embossing (_karazuri_), textile embossing (_nunome-zuri_) on the neckerchief and burnishing (_tsuya-zuri_) on the black. The seal of the leading block-carver Yokokawa Takejiro appears on the print.
 
-![Kunisada Image](/images/prints/P.79-1999.jpg)
+![Kunisada Image](/images/prints/p.79-1999.jpg)
 
 #### Nakamura Shujaku (Tsuruzo I) as Kajiwara Heiza Kagetoki
 {: .display-5 .text-info }
@@ -33,7 +33,7 @@ Kajiwara Kagetoki was a 12th-century warrior who deserted the Heike clan to join
 
 In contrast to the [other prints](KUN/kunp78.htm) included in this exhibition, this example is not from a luxury edition; it is printed with cheaper colours on thinner paper, without special additional printing effects such as embossing and burnishing. No block-carver's seal appears on the print.
 
-![Kunisada Image](/images/prints/P.80-1999.jpg)]
+![Kunisada Image](/images/prints/p.80-1999.jpg)]
 
 #### Onoe Baiko (Jitsukawa Enjaku I) as Tsuchiya Jiemon in _Koi-bikyaku Yamato orai_, performed at the Nakamura theatre from 09/03/1860
 {: .display-5 .text-info }
@@ -48,7 +48,7 @@ This play was one of several kabuki versions of the puppet play by Chikamatsu Mo
 
 The printing includes burnishing (_tsyra-zuri_) on the black. The seal of the leading block-carver Yokokawa Takejiro appears on the print.
 
-![Kunisada Image](/images/prints/P.81-1999.jpg)
+![Kunisada Image](/images/prints/p.81-1999.jpg)
 
 #### [Nakamura Fukusuke I](Group21.htm) as [Soga no Goro](Group6.htm) in _Yayoi-zakura hisago no makubari_, performed at the Nakamura theatre from 09/03/1860
 {: .display-5 .text-info }
@@ -61,7 +61,7 @@ This print of 'bamboo-tugging Goro' illustrates the scene in this Spring play (_
 
 The printing includes burnishing (_tsuya-zuri_) on the black. The seal of the leading block-carver Yokokawa Takejiro appears on the print.
 
-[![Kunisada Image](/images/prints/P.82-1999.jpg)]
+[![Kunisada Image](/images/prints/p.82-1999.jpg)]
 
 #### **Sawamura Tanosuke III as Otaka, daughter of Oyamada, in _Chushin akatsuki no tori_, performed at the Morita theatre from 05/05/1860**
 {: .display-5 .text-info }
@@ -76,7 +76,7 @@ In 1865 he became ill with gangrene, and two years later his hand and foot were 
 
 The printing here includes blind embossing (_karazuri_), textile embossing (_nunome-zuri_) in the background of the floral garment, burnishing (_tsuya-zuri_) on the black part of the mirror, and mica on the blue hair ornament. The seal of the block-carver Yokokawa Takejiro appears on the print.
 
-![Kunisada Image](/images/prints/P.83-1999.jpg)
+![Kunisada Image](/images/prints/p.83-1999.jpg)
 
 #### **[Nakamura Fukusuke I](Group21.htm) (Shikan IV) as Tomo-yakko Fukuhei**
 {: .display-5 .text-info }
@@ -91,7 +91,7 @@ The act entitled _Tomo yakko_ was a _Yakko mono_ ('footman play') that originall
 
 The printing includes blind embossing (_karazuri_) and burnishing (_tsuya-zuri_) on the black. The seal of the leading block-carver Yokokawa Takejiro appears on the print.
 
-![Kunisada Image](/images/prints/P.489-1937_detail.jpg)
+![Kunisada Image](/images/prints/p.489-1937_detail.jpg)
 
 #### **Flower**circa 1823-5  
 {: .display-5 .text-info }
@@ -104,7 +104,7 @@ _By a subtle fragrance of flowers, my heart is so distracted and scattered, 
 like dishevelled hair it is impossible to fix -  
 the dawn in spring is so enchanting and impossible to describe._
 
-![Kunisada Image](/images/prints/P.516-1937.jpg)
+![Kunisada Image](/images/prints/p.516-1937.jpg)
 
 #### **Ichikawa Ebizo V (formerly Danjuro VII) as Fuwa Banzaemon seen in a mirror**
 {: .display-5 .text-info }
@@ -115,7 +115,7 @@ Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937
 
 Fragment of a much larger [surimono]({{site.baseurl}}/context/textP) made for the Go poetry group, with a text of poems praising the actor, and the image of a peony (one of the Ichikawa family symbols) designed by Totoya Hokkei (1780-1850). The complete print bears Kunisadas seal reading _Kunisada aratame ni-sei Toyokuni no in_ ([Seal of Kunisada changing to Toyokuni II](textC.htm)), which records his adoption of his master Toyokunis name in New Year 1844. The print was probably designed in 1849, when his son [Danjuro VIII](Group12.htm) went to visit his father Ichikawa Ebizo V (formerly Danjuro VII) in exile in Osaka. Danjuro VII had been banished from Edo by the government (_bakufu_) in 1842 in punishment for his luxurious lifestyle as part of the Tempo reforms. The print shows Danjuro VII in one of his most famous roles, which was depicted many times in prints with the characteristic lightning-in-the-clouds pattern on Fuwa Banzaemons costume. The device of portraying an actor reflected in a mirror was used by Kunisada many times.
 
-![Kunisada Loan](/images/prints/Kunisada_Loan_379.jpg)]
+![Kunisada Loan](/images/prints/kunisada_loan_379.jpg)]
 
 #### **Ichikawa Danzo V as Sato Masakiyo in _Hachijin shugo no Honjo_ (Battle formations in defence of Honjo Castle) performed at the Ichimura Theatre in 01/1833**
 {: .display-5 .text-info }

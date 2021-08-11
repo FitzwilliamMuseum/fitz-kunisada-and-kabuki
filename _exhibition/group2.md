@@ -3,10 +3,10 @@ title: "Shibaraku!"
 category: Kunisada
 permalink: /exhibition/group-2
 layout: default
-image: /images/prints/Kunisada_Loan_499.jpg
+image: /images/prints/kunisada_loan_499.jpg
 order: 2
 ---
-![Ichikawa Danjuro VIII as Kamakura Gongoro]({{site.baseurl}}/images/prints/Kunisada_Loan_499.jpg)
+![Ichikawa Danjuro VIII as Kamakura Gongoro]({{site.baseurl}}/images/prints/kunisada_loan_499.jpg)
 
 #### Ichikawa Danjuro VIII as Kamakura Gongoro in _Shibaraku!_ (Stop Right There!) with Ichikawa Ebizo V (formerly Danjuro VII) in the background as the villain Narita Goro. circa .1836 Private collection
 {: .display-5 .text-info}
@@ -17,7 +17,7 @@ The hero then strides onto the _hanamichi_ wearing the most extravagant _aragoto
 
 -----
 
-![Yakusha kijinden Biographies of eccentric actors]({{site.baseurl}}/images/prints/Kunisada_Loan_book_plate.jpg)
+![Yakusha kijinden Biographies of eccentric actors]({{site.baseurl}}/images/prints/kunisada_loan_book_plate.jpg)
 
 #### Yakusha kijinden Biographies of eccentric actors
 {: .display-5 .text-info}
@@ -32,7 +32,7 @@ This book appeared in four volumes and provided meticulously rendered views of a
 
 -----
 
-![Ichikawa Sansho]({{site.baseurl}}/images/prints/P.91-1999.jpg)
+![Ichikawa Sansho]({{site.baseurl}}/images/prints/p.91-1999.jpg)
 
 #### Ichikawa Sansho ([Danjuro IX](Group18.htm)) as Aoito no Goro Terutsuna in _Shibaraku!_ ('Stop right there!')
 {: .display-5 .text-info}
