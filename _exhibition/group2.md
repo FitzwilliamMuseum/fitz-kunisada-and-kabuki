@@ -1,14 +1,14 @@
 ---
 title: "Shibaraku!"
 category: Kunisada
-permalink: /exhibition/shibaraku
+permalink: /exhibition/group-2
 layout: default
 image: /images/prints/Kunisada_Loan_499.jpg
 order: 2
 ---
-![Kunisada Loan ]({{site.baseurl}}/images/prints/Kunisada_Loan_499.jpg)
+![Ichikawa Danjuro VIII as Kamakura Gongoro]({{site.baseurl}}/images/prints/Kunisada_Loan_499.jpg)
 
-#### Ichikawa Danjuro VIII as Kamakura Gongoro in [](../Group2.htm) _Shibaraku!_ (Stop Right There!) with Ichikawa Ebizo V (formerly Danjuro VII) in the background as the villain Narita Goro. circa .1836 Private collection
+#### Ichikawa Danjuro VIII as Kamakura Gongoro in _Shibaraku!_ (Stop Right There!) with Ichikawa Ebizo V (formerly Danjuro VII) in the background as the villain Narita Goro. circa .1836 Private collection
 {: .display-5 .text-info}
 
 This diptych commemorates the debut of Danjuro VII's eldest son in the central role of this play. The role is one of the great examples of the 'rough-stuff' style (_aragoto_) for which the Ichikawa line of actors was famous. Danjuro VIII is striking a defiant pose on the raised passageway (_hanamichi_) leading from the back of the theatre through the audience to the main stage, while his father, playing the role of the villain, looks on from the main stage. This is the great moment when Narita Goro, on the point of executing the innocent Yoshitsuna and his fiancee, is halted by the powerful voice of Gongoro coming from the rear of the theatre shouting _'Shibaraku! Shibaraku!'_ ('Stop right there!').
@@ -17,8 +17,7 @@ The hero then strides onto the _hanamichi_ wearing the most extravagant _aragoto
 
 -----
 
-
-![Kunisada Loan ]({{site.baseurl}}/images/prints/Kunisada_Loan_book_plate.jpg)
+![Yakusha kijinden Biographies of eccentric actors]({{site.baseurl}}/images/prints/Kunisada_Loan_book_plate.jpg)
 
 #### Yakusha kijinden Biographies of eccentric actors
 {: .display-5 .text-info}
@@ -33,7 +32,7 @@ This book appeared in four volumes and provided meticulously rendered views of a
 
 -----
 
-![Kunisada Image]({{site.baseurl}}/images/prints/P.91-1999.jpg)
+![Ichikawa Sansho]({{site.baseurl}}/images/prints/P.91-1999.jpg)
 
 #### Ichikawa Sansho ([Danjuro IX](Group18.htm)) as Aoito no Goro Terutsuna in _Shibaraku!_ ('Stop right there!')
 {: .display-5 .text-info}

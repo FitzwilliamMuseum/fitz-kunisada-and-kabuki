@@ -2,7 +2,7 @@
 title: Sukeroku
 category: Kunisada
 layout: default
-permalink: /exhibition/Sukeroku
+permalink: /exhibition/group-5
 image: /images/prints/P.501-1937.jpg
 order: 5
 ---

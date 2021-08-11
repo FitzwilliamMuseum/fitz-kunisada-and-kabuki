@@ -2,7 +2,7 @@
 title: Actors in private life
 category: Kunisada
 layout: default
-permalink: /exhibition/actors-in-private-life
+permalink: /exhibition/group-9
 image: /images/prints/Kunisada_Loan_206.jpg
 order: 11
 ---

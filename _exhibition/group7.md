@@ -1,7 +1,7 @@
 ---
 category: Kunisada
 title: "Prints of Segawa Kikunojo V"
-permalink: /exhibition/prints-of-Segawa-Kikunojo-V
+permalink: /exhibition/group-7
 layout: default
 image: /images/prints/Kunisada_Loan_293.jpg
 order: 7

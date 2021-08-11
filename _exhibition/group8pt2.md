@@ -1,7 +1,7 @@
 ---
 category: Kunisada
 layout: default
-permalink: /exhibition/prints-of-danjuro-vii-1847
+permalink: /exhibition/group-8-part-2
 title: Prints of Danjuro VII 1847-1859
 image: /images/prints/P.69-1999.jpg
 order: 9

@@ -1,7 +1,7 @@
 ---
 title: Tokaido
 category: Kunisada
-permalink: /exhibition/tokaido
+permalink: /exhibition/group-1
 layout: default
 image: /images/prints/P.55-1999.jpg
 order: 1

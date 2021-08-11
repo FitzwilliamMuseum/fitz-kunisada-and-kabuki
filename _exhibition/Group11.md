@@ -3,7 +3,7 @@ category: Kunisada
 title: Mirror format prints
 layout: default
 image: /images/prints/P.78-1999.jpg
-permalink: /exhibition/mirror-format-prints
+permalink: /exhibition/group-11
 ---
 
 ![Kunisada Image](/images/prints/P.78-1999.jpg)

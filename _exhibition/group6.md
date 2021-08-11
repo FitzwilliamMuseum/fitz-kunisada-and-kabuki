@@ -1,7 +1,7 @@
 ---
 category: Kunisada
 title: Soga Plays
-permalink: /exhibition/soga-plays
+permalink: /exhibition/group-6
 layout: default
 image: /images/prints/Kunisada_Loan_272.jpg
 order: 6
