@@ -1,0 +1,83 @@
+<html>
+
+<head>
+
+<title>Info</title>
+</head>
+
+
+
+<div align="center">
+  <center>
+  <table border="0" width="100%" cellpadding="0" cellspacing="4" height="326">
+    <tr>
+      <td width="100%" height="30">
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" height="30">
+      <font size="2" FACE="Arial"><b>Memorial portrait
+      (<i>tsuizen-e</i>) of Segawa Kikunojo V
+      &nbsp;<br>
+      <br>
+      </b>01/1832<b><br>
+      </b></font>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" height="30">
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" height="30">
+      <a href="KUN/kun214.htm"><img border="2" src="Kunisada_Loan_214_small1.jpg" alt="Memorial portrait (shini-e) of Segawa Kikunojo V &nbsp;" width="100" height="144"></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" height="30">
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" height="30">
+      <font face="Arial" size="2">From the 1820s to 1860s memorial portraits
+      featured regularly in the output of Edo publishers, many of them designed
+      by Kunisada. He even produced more than one design of the same actor for
+      competing publishers. The prints generally gave the actor's stage name,
+      date of death, age at the time of death, his 'farewell poem', funereal
+      name, and the temple that would be entrusted with his remains. The
+      deceased was depicted out of role � sometimes in formal dress, sometimes
+      in a Buddhist monk's robes (or nun's robes if they specialised in
+      female-roles). Whereas all other memorial prints of the 1820s and 30s
+      showed the deceased full-figure (standing or seated), this print is
+      exceptional in depicting the noted <a href="textG.htm"> female-role actor (<i>onnagata</i>)
+      </a>
+      Segawa Kikunojo V half-length. He is shown in female attire and
+      simple woman's coiffure with a square cloth covering his shaved forehead.
+      Rather than holding the customary prayer beads, he is shown holding a
+      packet of the leading face powder of the day. Such 'product placement' was
+      rare in actor prints, but was often encountered in prints of beautiful
+      women. The stylised butterflies decorating the black frame of this print
+      and ornamenting Kikunojo's hairpin would have been recognised as the
+      actor's crest <a href="textD.htm"> (<i>mon</i>)</a> of Kikunojo; butterflies were also taken
+      to represent the soul of the recently deceased.</font>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p>&nbsp;</p>
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" width="100%" cellspacing="4">
+    <tr>
+      <td width="26%">
+        <p align="center"><br>
+        <br>
+        <font FACE="Arial" size="1">� The Fitzwilliam Museum</font></p>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+</body>
+</html>
