@@ -28,7 +28,7 @@ twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 collection_url: "https://data.fitzmuseum.cam.ac.uk"
 main_url: "https://fitzmuseum.cam.ac.uk"
-background: "/images/prints/Japanese_Theatre_Interior_high_res_copy.jpg"
+background: "/images/prints/japanese_theatre_interior_high_res.jpg"
 google_analytics: 'G-2R0YLY9DRS'
 # Build settings
 plugins:
