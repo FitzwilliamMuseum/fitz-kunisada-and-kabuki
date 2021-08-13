@@ -23,7 +23,7 @@ His rival Nagoya Sanzaburo (Sanza for short) carries a sword named 'Amorous Swal
 
 Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937
 
-A [surimono](/context/textP) diptych showing the famous Scabbards clashing (_Saya-ate_) scene in a revival (with a different name) of the play that first brought Danjuro VII and Kikugoro III together in these highly successful roles in 1823. This scene was subsequently performed as a separate dance-drama. Fuwa Banzaemon carries a sword named Thunder and wears a kimono decorated with a pattern of lightning-in-the-clouds. 
+A [surimono](/context/textP) diptych showing the famous Scabbards clashing (_Saya-ate_) scene in a revival (with a different name) of the play that first brought Danjuro VII and Kikugoro III together in these highly successful roles in 1823. This scene was subsequently performed as a separate dance-drama. Fuwa Banzaemon carries a sword named Thunder and wears a kimono decorated with a pattern of lightning-in-the-clouds.
 
 His rival Nagoya Sanza carries a sword named Amorous Swallows and wears a kimono with a swallows-in-the-rain pattern tied with a sash of knitted rope. Unaware of each other, they make simultaneous entrances boasting of their fame, along the two raised passageways (_hanamichi_) that run through the audience to the main stage. As they pass on the main stage, which represents Nakano Street in the Yoshiwara pleasure district at cherry blossom time, their sword hilts clash  a breach of etiquette demanding an apology. This depiction shows them at the moment when they raise their deep sedge traveling-hats and recognize each other, before drawing swords to fight over the courtesan Katsuragi, whom they both love.
 
@@ -39,4 +39,5 @@ It seems that Danjuro VII was only recruited for this performance after a fire p
 (KUN/kunp516.htm)
 
 ![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_252.jpg)
-KUN/kun252.htm)
+
+{% include texts/kun252.md %}

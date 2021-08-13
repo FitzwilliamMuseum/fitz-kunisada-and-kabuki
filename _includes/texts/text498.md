@@ -1,0 +1,11 @@
+**[Iwai](Group19.htm) Kumesaburo II as Oiso no Tora bringing food to Soga no Juro, played by [Onoe](Group16pt1.htm) [Kikugoro III](textM.htm)**
+
+_c._1818-20
+
+Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937
+
+[![Iwai Kumesaburo II as Oiso no Tora bringing food to Soga no Juro, played by Onoe Kikugoro III](P.498-1937_small.jpg)](KUN/kun498.htm)
+
+From a set of five [surimono](textP.htm) commissioned for the Hisakataya poetry group whose emblem, a stylised _koto_ bridge, surmounts the red inscription: _Goban-tsusuki_ (from a set of five). The printer's seal of _Ryusai_ _Chimata_ (Ino Naojiro) also appears on the print. The set depicts characters from the cycle of plays telling of the [revenge of the two Soga brothers](Group6.htm), Soga no Juro and Soga no Goro, on their father's murderer Kudo Suketsune.
+
+The _Iori-mokko_ motif (a magnolia within a stylised hut) associated with Kudo Suketsune decorates the curtain looped across the top of all five prints in the series. It also occurs on the curtain on the _Shimadai_ (island tray) decoration held by Oiso no Tora in this print. The motif alludes to Suketsune's hunting lodge at Susono below Mount Fuji, where he was finally murdered by the Soga brothers. Soga no Juro's costume bears the pattern of flying-plovers (_chidori_) that was traditionally associated with him, while his sleeve is decorated with the _Yamagata-mokko_ motif of Soga. His mistress Tora's costume is decorated with a Soga butterfly motif, which was also associated with the actor Kumesaburo
