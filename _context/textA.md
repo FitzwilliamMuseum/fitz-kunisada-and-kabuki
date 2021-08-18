@@ -2,11 +2,13 @@
 permalink: /context/textA
 title: Saruwaka Street
 layout: default
+order: a
 ---
 **'Night view of Saruwaka Street' by Utagawa Hiroshige**
 
-1856\. The Morita, Ichimura and Nakamura theatres are seen on the right
+1856.
 
+The Morita, Ichimura and Nakamura theatres are seen on the right.
 
 A fire in 1841 destroyed the district around Sakai Street (_Sakai-cho_) where the Nakamura and other theatres were situated. The government (_bakufu_) reformer Mizuno Tadakuni refused permission to rebuild as an attempt to abolish the theatres. Another _bakufu_ official sympathetic to Kabuki persuaded Mizuno to agree to relocate all the theatres (together with the puppet theatres) to the area north-east of Asakusa Kannon temple and south of the Nihon Embankment. This new theatre district, which was already a centre of popular pleasure, consisted of a single main street, renamed Saruwaka Street (_Saruwaka-cho_ or _Saruwaka-machi_) after Saruwaka Kanzaburo, who founded Edo kabuki in the Nakamura Theatre in 1624.
 

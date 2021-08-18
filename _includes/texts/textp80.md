@@ -15,4 +15,4 @@ This play was one of several kabuki versions of the puppet play by Chikamatsu Mo
 The printing includes burnishing (_tsyra-zuri_) on the black. The seal of the leading block-carver Yokokawa Takejiro appears on the print.
 
 
-� The Fitzwilliam Museum
+The Fitzwilliam Museum

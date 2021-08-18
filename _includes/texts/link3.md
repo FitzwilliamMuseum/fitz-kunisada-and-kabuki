@@ -18,4 +18,4 @@ The cheapest seats were in the two-storey _rakan-dai_ (Buddhas 500 disciples enc
 
 Hanging either side of the main auditorium are announcements concerning the behaviour of the audience 
 
-[Back to Home Page](texthomepage.htm)
+

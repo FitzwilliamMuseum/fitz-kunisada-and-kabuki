@@ -1,6 +1,6 @@
 Info
 
-**_Sendo Matsuemon � Shodoya_ (Matsuemon the Boatman: Shokintei)**
+**_Sendo Matsuemon Shodoya_ (Matsuemon the Boatman: Shokintei)**
 
 01/1853
 
@@ -12,4 +12,4 @@ Memorial portrait by Kunisada of Nakamura Utaemon IV (who had died in 02/1852) a
 
 
 
-� The Fitzwilliam Museum
+The Fitzwilliam Museum

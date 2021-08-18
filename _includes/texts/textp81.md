@@ -1,6 +1,6 @@
 Info
 
-**[Nakamura Fukusuke I](Group21.htm) as [Soga no Goro](Group6.htm) in_Yayoi-zakura hisago no makubari_, performed at the Nakamura theatre from 09/03/1860**
+**[Nakamura Fukusuke I](/exhibition/group-21) as [Soga no Goro](/exhibition/group-6) in_Yayoi-zakura hisago no makubari_, performed at the Nakamura theatre from 09/03/1860**
 
 Given by the Friends of the Fitzwilliam with the aid of the MGC Purchase Grant Fund and the National Art Collections Fund.
 
@@ -14,4 +14,4 @@ The printing includes burnishing (_tsuya-zuri_) on the black. The seal of the le
 
 
 
-� The Fitzwilliam Museum
+The Fitzwilliam Museum

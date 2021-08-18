@@ -5,19 +5,24 @@ layout: default
 image: /images/prints/p.66-1999.jpg
 permalink: /exhibition/group-12
 ---
-![Kunisada Loan ](/images/prints/kunisada_loan_499.jpg)]
-(KUN/kun499.htm)
+![Kunisada Loan ](/images/prints/kunisada_loan_499.jpg){: .img-fluid }
 
-![Kunisada image](/images/prints/p.61-1999.jpg)
-(KUN/kunp61.htm)
+{% include texts/kun499.md %}
 
-![Kunisada image](/images/prints/p.66-1999.jpg)
-(KUN/kunp66.htm)
+![Kunisada image](/images/prints/p.61-1999.jpg){: .img-fluid }
 
-![Kunisada Image](/images/prints/p.57-1999.jpg)
-(KUN/kunp57.htm)  
+{% include texts/kunp61.md %}
 
-![Kunisada Image](/images/prints/p.60-1999.jpg)
-(KUN/kunp60.htm)
+![Kunisada image](/images/prints/p.66-1999.jpg){: .img-fluid }
 
-[More Info](textN.htm)
+{% include texts/kunp66.md %}
+
+![Kunisada Image](/images/prints/p.57-1999.jpg){: .img-fluid }
+
+{% include texts/kunp57.md %}
+
+![Kunisada Image](/images/prints/p.60-1999.jpg){: .img-fluid }
+
+{% include texts/kunp60.md %}
+
+[More Info](/context/textN)

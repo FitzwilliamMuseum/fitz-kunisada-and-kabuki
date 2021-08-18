@@ -7,7 +7,7 @@ image: /images/prints/p.55-1999.jpg
 order: 1
 ---
 
-![Kunisada]({{site.baseurl}}/images/prints/p.55-1999.jpg)  
+![The village of eight bridges at Okazaki]({{site.baseurl}}/images/prints/p.55-1999.jpg){: .img-fluid }
 
 #### The village of eight bridges at Okazaki (_Okazaki Yatsuhashi-mura_) 1838
 {: .text-info }
@@ -22,7 +22,7 @@ Plots involving cat-spirits belong to a category of play derived from the puppet
 
 -----
 
-![]({{site.baseurl}}/images/prints/p.77-1999.jpg)
+![Onoe Baiko as Wada Shizuma]({{site.baseurl}}/images/prints/p.77-1999.jpg){: .img-fluid }
 
 #### [Onoe Baiko](KUN/kunp80.htm) as Wada Shizuma (right), [Ichikawa Ebizo V](/exhibition/group-8-part-2) as Yamada Kobei (centre) and Kataoka Nizaemon VIII as Karaki Masaemon with an inset of Onoe Kikugoro IV as his wife O-Tani (left)
 {: .text-info }
@@ -39,7 +39,7 @@ Collections Record: [P.77-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9470
 
 -----
 
-[![Kunisada Image]({{site.baseurl}}/images/prints/p.60-1999.jpg)](KUN/kunp60.htm)
+![Kunisada Image]({{site.baseurl}}/images/prints/p.60-1999.jpg){: .img-fluid }
 
 #### Miya [Kagekiyo](/exhibition/group-14)
 {: .text-info }
@@ -58,7 +58,7 @@ Collections Record: [P.60-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9453
 
 -----
 
-![Kunisada Image]({{site.baseurl}}/images/prints/p.62-1999.jpg)
+![Kunisada Image]({{site.baseurl}}/images/prints/p.62-1999.jpg){: .img-fluid }
 
 #### _Shôno Kameyama kan Morishita Hori no Rammaru_ (Morishita, between Shono and Kameyama: Hori no Rammaru)
 {: .text-info }

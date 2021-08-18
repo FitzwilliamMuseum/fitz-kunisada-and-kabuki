@@ -23,7 +23,7 @@ email: "crsid@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
   "Website description"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "kunisada-and-kabuki.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kunisada-and-kabuki.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 collection_url: "https://data.fitzmuseum.cam.ac.uk"

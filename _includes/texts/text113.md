@@ -1,8 +1,9 @@
-**Bando Hikosaburo V as Kudo Saemon in _Sano kei zu Soga no gosho-zome_ [(A Sano lineage Soga of courtly hue)](../Group6.htm) performed at the Nakamura theatre from 01/1862**
+
+**Bando Hikosaburo V as Kudo Saemon in _Sano kei zu Soga no gosho-zome_ [(A Sano lineage Soga of courtly hue)](/exhibition/group-6) performed at the Nakamura theatre from 01/1862**
 
 Given by David Scrase 1994
 
-[![Bando Hikosaburo V as Kudo Saemon ](P.113-1994_small.jpg)](KUN/kun113.htm)
+[![Bando Hikosaburo V as Kudo Saemon ](P.113-1994.jpg)](KUN/kun113.htm)
 
 From the series _Tosei jihitsu kagami_ (Mirror of Contemporary Autographs), published 12/1861, with portraits by Kunisada juxtaposed against landscapes or still-lifes designed sometimes by Hiroshige or (in this case) by his pupil Ichiyusai Shigenobu, known as Hiroshige II (1826-69).
 

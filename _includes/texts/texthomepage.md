@@ -10,7 +10,7 @@ Web Site**
    
 ![](bd10265_1.gif) [To the Themes page](textthemes.htm) (explore the site by choosing a particular actor or play, or visit a Kabuki theatre)
 
-![Bando Mitsugoro IV as Sekibei and Onoe Kikugoro III as Somezone in Tsumoru koi yuki seki no to (Snow and love piled up at the Seki-no-to Barrier Gate) performed at the Ichimura theatre in 11/1832](P.508-1937_small.jpg)
+![Bando Mitsugoro IV as Sekibei and Onoe Kikugoro III as Somezone in Tsumoru koi yuki seki no to (Snow and love piled up at the Seki-no-to Barrier Gate) performed at the Ichimura theatre in 11/1832](P.508-1937.jpg)
 
  ![](bd10265_1.gif) [To the Virtual Gallery](KUN/kun565.htm) (view the exhibited prints in sequence and move through the Gallery by clicking on the arrows at the bottom of the page)
 
@@ -29,4 +29,4 @@ Web Site**
 
 Enjoy your tour of the Fitzwilliam Museum Kunisada and Kabuki virtual exhibition.  
 
-� The Fitzwilliam Museum
+The Fitzwilliam Museum

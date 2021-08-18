@@ -10,4 +10,4 @@ The _tsurieda_ (hanging branches)  a border of artificial branches or flowers  h
 
 Music and sound effects for kabuki generally emanated from the geza  a lattice-screened room on the right of the stage  or from the chobo yuka  a lattice-screened booth above the stage-entrance on the right of the stage. Sukerokus entrance-dance (_deba_) was accompanied by strains of offstage kato bushi (shamisen music with strong but elegant singing and clear rhythmic shouts).
 
-[Back to Home Page](texthomepage.htm)
+

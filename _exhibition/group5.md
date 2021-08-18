@@ -7,12 +7,20 @@ image: /images/prints/p.501-1937.jpg
 order: 5
 ---
 
-[![Kunisada Image]({{site.baseurl}}/images/prints/kunisada_loan_406.jpg)](KUN/kun406.htm)
+![Kunisada Image]({{site.baseurl}}/images/prints/kunisada_loan_406.jpg){: .img-fluid }
 
-[![Kunisada Image]({{site.baseurl}}/images/prints/kunisada_loan_405.jpg)](KUN/kun405.htm)
+{% include texts/text406.md %}
 
-[![Kunisada Image]({{site.baseurl}}/images/prints/p.502-1937.jpg)](KUN/kunp502.htm)
+![Kunisada Image]({{site.baseurl}}/images/prints/kunisada_loan_405.jpg){: .img-fluid }
 
-[![Kunisada Image]({{site.baseurl}}/images/prints/p.501-1937.jpg)](KUN/kunp501.htm)
+{% include texts/kun405.md %}
 
-[![Kunisada Image]({{site.baseurl}}/images/prints/Japanese_Theatre_Interior.jpg)](KUN/thraatere.htm)
+![Kunisada Image]({{site.baseurl}}/images/prints/p.502-1937.jpg){: .img-fluid }
+
+{% include texts/kunp502.md %}
+
+![Kunisada Image]({{site.baseurl}}/images/prints/p.501-1937.jpg){: .img-fluid }
+
+{% include texts/kunp501.md %}
+
+{% include texts/thraatere.md %}

@@ -2,15 +2,16 @@
 permalink: /context/textB
 title: Inside a theatre
 layout: default
+order: b
 ---
-![Japanese Theatre Interior]({{site.baseurl}}/images/prints/Japanese_Theatre_Interior_high_res_copy.jpg){: .img-fluid}
+![Japanese Theatre Interior]({{site.baseurl}}/images/prints/japanese_theatre_interior_high_res.jpg){: .img-fluid}
 
-**'Newly printed picture of the Great \[Nakamura\] Theatre of Sakai-cho in the Eastern Capital \[Edo\]' by Utagawa Yoshimaru _c._ 1830s.**
+**'Newly printed picture of the Great \[Nakamura\] Theatre of Sakai-cho in the Eastern Capital \[Edo\]' by Utagawa Yoshimaru c.  1830s.**
 
 
 This print published by Nishinomiya Shinroku shows the interior of the Nakamura Theatre in Sakai Street before the fire in 1841 that destroyed it and resulted in a move to Sarukawa Street.
 
-We are at the back of the theatre in the rear raised gallery (sajiki) looking towards the main stage at the far end. [Danjuro VII](/context/textE) as [Sukeroku](Group5.htm) (wearing the characteristic purple headband and carrying an umbrella), makes his entrance along the hon hanamichi (literally 'main flower path') on the left-hand side a raised walkway that passes through the audience from the kirimaku curtain at the back to the main stage (a subsidiary or kari hanamichi is on the other side of the auditorium). The action is frozen on the main stage to focus attention on Danjuro.
+We are at the back of the theatre in the rear raised gallery (sajiki) looking towards the main stage at the far end. [Danjuro VII](/context/textE) as [Sukeroku](/exhibition/group-5) (wearing the characteristic purple headband and carrying an umbrella), makes his entrance along the hon hanamichi (literally 'main flower path') on the left-hand side a raised walkway that passes through the audience from the kirimaku curtain at the back to the main stage (a subsidiary or kari hanamichi is on the other side of the auditorium). The action is frozen on the main stage to focus attention on Danjuro.
 
 In front of him crouches a stage-hand (koken) holding a candle to illuminate the actor. Stage-hands usually wear discreet black clothing but for special performances more elaborate costume is worn: in this instance the costume is decorated on the back with [Danjuro's acting crest (mon), the triple-rice measure box (mimasu).](/context/textD) Other candles are lined up along the hanamichi and across the front of the stage, but the main light-source is daylight, coming through the high windows at the sides and also from the roof light.
 

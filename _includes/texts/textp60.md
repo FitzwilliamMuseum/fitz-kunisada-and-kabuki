@@ -1,14 +1,11 @@
-**Miya  [Kagekiyo](Group14.htm)**
+**Miya  [Kagekiyo](/exhibition/group-14)**
 
 05/1852
 
-Given by the Friends of the Fitzwilliam with
+Given by the Friends of the Fitzwilliam with the aid of the MGC Purchase Grant Fund and the National Art Collections Fund.
 
-the aid of the MGC Purchase Grant Fund and the National Art Collections Fund.
+A portrait of [Ichikawa](/exhibition/group-12)  [Danjuro VIII](textN.htm) as [Kagekiyo,](Group14.htm) with a view of Miya on the [Tokaido Highway](Group1.htm) in the background, from the [series](KUN/kunp62.htm) _Tokaido gojusan tsugi no uchi_ (Fifty-three stations of the Tokaido Highway).
 
-[![Miya  Kagekiyo](P.60-1999_small.jpg)](KUN/kunp60.htm)
-
-A portrait of [Ichikawa](Group12.htm)  [Danjuro VIII](textN.htm) as [Kagekiyo,](Group14.htm) with a view of Miya on the [Tokaido Highway](Group1.htm) in the background, from the [series](KUN/kunp62.htm) _Tokaido gojusan tsugi no uchi_ (Fifty-three stations of the Tokaido Highway).
 
 Akushichibyoe Kagekiyo, a leading Heike warrior in the Gempei wars, featured only briefly in the historical chronicle _Heike Monogatari_ (Tale of the Heike) but assumed great prominence in legend and in numerous kabuki and puppet dramas known as _Kagekiyo mono_ (Kagekiyo plays). One version was included by Danjuro VII in his selection of Eighteen Plays (_Kabuki Juhachiban_) specially associated with the Ichikawa lineage. The role called for the Ichikawa speciality of _aragoto_ ('rough-stuff') acting, with a _dotera_ (padded-dressing-gown) costume, huge bushy wig and red make-up (_beni suji_) with _suji gama_ ('line shadows') and painted blue beard (_han guma_).
 

@@ -2,7 +2,7 @@ Kunisada
 
 ![Picture of the calligraphy and painting party held at Mampachiro (Mampachiro-jo shoga-kaiseki no zu)](kunisada/Part%20III/P.62-1938.jpg)
 
-� The Fitzwilliam Museum
+The Fitzwilliam Museum
 
 Picture of the calligraphy and painting party held at  Mampachiro (Mampachiro-jo shoga-kaiseki no zu)
 

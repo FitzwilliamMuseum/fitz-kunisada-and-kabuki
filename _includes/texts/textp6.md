@@ -4,4 +4,4 @@ Info
 
 
 
-� The Fitzwilliam Museum
+The Fitzwilliam Museum

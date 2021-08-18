@@ -1,19 +1,11 @@
-Info
-
-**_Arajishi Otokonosuke Nikki Danjo � Ne_ (Arajishi Otokonosuke and Nikki Danjo: Rat)**
+**_Arajishi Otokonosuke Nikki Danjo Ne_ (Arajishi Otokonosuke and Nikki Danjo: Rat)**
 
 10/1852
 
 Given by the Friends of the Fitzwilliam with the aid of the MGC Purchase Grant Fund and the National Art Collections Fund.
 
-[![Arajishi Otokonosuke Niki Danjo � Ne (Arajishi Otokonosuke and Nikki Danjo: Rat)](P.66-1999_small1.jpg)](KUN/kunp66.htm)
-
-Portrait of [Ichikawa ](Group12.htm) [Danjuro VIII](textN.htm) as Arajishi Otokonosuke with an inset portrait of Matsumoto Koshiro V as Nikki Danjo in _Date kurabe Okuni Kabuki_ (A competition in ostentation: Okuni's Kabuki), from the series _Nazorae eto-awase_ (Allusions to the Zodiac Signs).
+Portrait of [Ichikawa ](/exhibition/group-12) [Danjuro VIII](/context/textN) as Arajishi Otokonosuke with an inset portrait of Matsumoto Koshiro V as Nikki Danjo in _Date kurabe Okuni Kabuki_ (A competition in ostentation: Okuni's Kabuki), from the series _Nazorae eto-awase_ (Allusions to the Zodiac Signs).
 
 This series matches the roles played by actors to signs of the zodiac. In this print the reference to the zodiac sign for the rat is evident to those with a knowledge of the _Yukashita_ ('Under the floor of the Palace') scene of the play. The evil samurai Nikki Danjo (shown in the inset) transformed himself into a giant rat and in this guise he snatches a precious scroll and runs away with it in his mouth to hide beneath the palace floorboards. In the ensuing scene under the floor, the loyal samurai Arajishi Otokonosuke (the main figure in the print) uses his iron fan to strike the rat on the forehead. The rat is then transformed into his true self, disappearing through a trap door out of which Nikki is seen to rise, with the scroll still held in his mouth and a crescent-shaped wound from the blow on his forehead. He floats into the air and disappears into a cloud in the upper reaches of the theatre, with Otokonosuke posturing in _aragoto_ ('rough-stuff') style on the main stage below. These stage postions are reflected in the design of this print.
 
 A print of the same scene was published four months earlier in a zodiac series designed by Kuniyoshi, illustrating the cast of a performance in 1851. Kunisada's print depicts an imaginary perfromance with a 'dream cast', in which the current star Danjuro VIII appears with Koshiro V, who had died in 1838, some fourteen years before this print was published. Koshiro was the most famous Nikki in history (his 1818 performance opposite Danjuro VII in this scene was recorded in a diptych by Kunisada published in that year). Even today actors playing Nikki wear Koshiro's crest and costume pattern, and they use make-up to recreate [the large spot that Koshiro had above his left eyebrow](KUN/kunp64.htm).
-
-
-
-� The Fitzwilliam Museum

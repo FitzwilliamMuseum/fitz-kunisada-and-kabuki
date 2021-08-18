@@ -1,4 +1,4 @@
-### Ichikawa Danjuro VII as Jo and Segawa  Kikunojo V as Uba _c._1823-5
+### Ichikawa Danjuro VII as Jo and Segawa  Kikunojo V as Uba c. 1823-5
 {: .text-info .display-5}
 
 Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937

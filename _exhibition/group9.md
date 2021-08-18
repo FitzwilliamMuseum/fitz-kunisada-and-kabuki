@@ -7,24 +7,30 @@ image: /images/prints/kunisada_loan_206.jpg
 order: 11
 ---
 
+![Kunisada Loan ](/images/prints/kunisada_loan_206.jpg){: .img-fluid }
 
-![Kunisada Loan ](/images/prints/kunisada_loan_206.jpg)
-(KUN/kun206.htm)
+{% include texts/text206.md %}
 
-![Kunisada Loan ](/images/prints/kunisada_loan_-_Natsu_no_Fuji_vol_1.jpg)
-(KUN/infovol1.htm)  
+![Kunisada Loan ](/images/prints/kunisada_loan_-_Natsu_no_Fuji_vol_1.jpg){: .img-fluid }
 
-![Kunisada Loan ](/images/prints/kunisada_loan_-_Natsu_no_Fuji_vol_2.jpg)
-(KUN/infovol2.htm)
+{% include texts/textnovol1.md %}
 
-![Kunisada Image](/images/prints/p.61P.62-1938.jpg)
-(KUN/kunpt361.htm)
+![Kunisada Loan ](/images/prints/kunisada_loan_-_Natsu_no_Fuji_vol_2.jpg){: .img-fluid }
 
-![Kunisada Image](/images/prints/p.491-1937.jpg)
-(KUN/kunp491.htm)
+{% include texts/textnovol2.md %}
 
-![Kunisada Image](/images/prints/p.57-1999.jpg)
-(KUN/kunp57.htm)
+![Kunisada Image](/images/prints/p.62-1938.jpg){: .img-fluid }
 
-![Kunisada Image](/images/prints/p.496-1937.jpg)
-(KUN/kunp496.htm)
+{% include texts/kunpt36162.md %}
+
+![Kunisada Image](/images/prints/p.491-1937.jpg){: .img-fluid }
+
+{% include texts/text491.md %}
+
+![Kunisada Image](/images/prints/p.57-1999.jpg){: .img-fluid }
+
+{% include texts/kunp57.md %}
+
+![Kunisada Image](/images/prints/p.496-1937.jpg){: .img-fluid }
+
+{% include texts/text496.md %}

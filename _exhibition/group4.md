@@ -7,9 +7,9 @@ image: /images/prints/p.516-1937.jpg
 order: 4
 ---
 
-![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_556.jpg)
+![Kunisada Loan ](/images/prints/kunisada_loan_556.jpg){: .img-fluid }
 
-### Ichikawa Danjuro VII as Fuwa Banzaemon (right), Onoe Kikugoro III as Nagoya Sanza (centre) and Segawa Kikunojo V as the courtesan Katsuragi (left)
+**Ichikawa Danjuro VII as Fuwa Banzaemon (right), Onoe Kikugoro III as Nagoya Sanza (centre) and Segawa Kikunojo V as the courtesan Katsuragi (left)**
 
 Ichikawa Danjuro VII as Fuwa Banzaemon (right), Onoe Kikugoro III as Nagoya Sanza (centre) and Segawa Kikunojo V as the courtesan Katsuragi (left)in _Ukiyo-zuka hiyoku no inazuma_ (Ukiyo's sword hilt, a double grave mound and the mark of the lightning bolt) performed at the Ichimura theatre in 03/1823**Private collection
 
@@ -17,7 +17,8 @@ This famous _Saya-ate_ ('Scabbards clashing') confrontation scene occurs in the 
 
 His rival Nagoya Sanzaburo (Sanza for short) carries a sword named 'Amorous Swallows' and wears a kimono decorated with a 'swallows-in-the-rain' pattern. Unaware of each other, they make simultaneous entrances along the two raised passageways (_hanamichi_) through the audience. As they pass on the main stage (which represents Nakano Street in the Yoshiwara pleasure district at cherry blossom time), their sword hilts clash. They exchange insults, remove their green sedge travelling-hats, recognize one another and draw swords to fight over the courtesan Katsuragi. Katsuragi rushes forward and persuades them to call a truce.
 
-![Kunisada Loan ]({{site.baseurl}}/images/prints/p.474-1937.jpg)
+![Kunisada Loan ]({{site.baseurl}}/images/prints/p.474-1937.jpg){: .img-fluid }
+![Kunisada Loan ]({{site.baseurl}}/images/prints/p.475-1937.jpg){: .img-fluid }
 
 **Ichikawa Danjuro VII as Fuwa Banzaemon (right) and Onoe Kikugoro III as Nagoya Sanza in _Sato no haru meibutsu amigasa_ (Famous sedge hats during spring in Yoshiwara) performed at the Kawarazaki theatre in 01/1827**
 
@@ -27,17 +28,20 @@ A [surimono](/context/textP) diptych showing the famous Scabbards clashing (_Say
 
 His rival Nagoya Sanza carries a sword named Amorous Swallows and wears a kimono with a swallows-in-the-rain pattern tied with a sash of knitted rope. Unaware of each other, they make simultaneous entrances boasting of their fame, along the two raised passageways (_hanamichi_) that run through the audience to the main stage. As they pass on the main stage, which represents Nakano Street in the Yoshiwara pleasure district at cherry blossom time, their sword hilts clash  a breach of etiquette demanding an apology. This depiction shows them at the moment when they raise their deep sedge traveling-hats and recognize each other, before drawing swords to fight over the courtesan Katsuragi, whom they both love.
 
-It seems that Danjuro VII was only recruited for this performance after a fire prevented him from appearing as [Kagekiyo at the Ichimura theatre](KUN/kunp3476477.htm)
+It seems that Danjuro VII was only recruited for this performance after a fire prevented him from appearing as Kagekiyo at the Ichimura theatre
 
-![Kunisada Image]({{site.baseurl}}/images/prints/p.515-1937.jpg)
-(KUN/kunp514515.htm)
+![Kunisada Image]({{site.baseurl}}/images/prints/p.515-1937.jpg){: .img-fluid }
 
-![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_290.jpg)
-(KUN/lightningbolts.htm)
+{% include texts/textp514515.md %}
 
-![Kunisada Image]({{site.baseurl}}/images/prints/p.516-1937.jpg)
-(KUN/kunp516.htm)
+![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_290.jpg){: .img-fluid }
 
-![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_252.jpg)
+{% include texts/lightningbolts.md %}
+
+![Kunisada Image]({{site.baseurl}}/images/prints/p.516-1937.jpg){: .img-fluid }
+
+{% include texts/text516.md %}
+
+![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_252.jpg){: .img-fluid }
 
 {% include texts/kun252.md %}

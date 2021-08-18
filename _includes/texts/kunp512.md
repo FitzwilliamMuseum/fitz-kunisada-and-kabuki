@@ -1,0 +1,8 @@
+**Ichikawa Danjuro VII as Kan Shojo (top) and Segawa Kikunojo V as Umeomaru (bottom) in _Sugawara denju tenarai kagami_ (Sugawara and the secrets of calligraphy) performed at the Kawarazaki theatre in 09/1832**
+_Kunisada 87_
+
+Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937
+
+Spring _kyoka_ [surimono](/context/textP) commemorating the performance in the ninth month of 1832 at the Kawarazaki Theatre in Edo of _Sugawara denju tenarai kagami_ (Sugawara and the secrets of calligraphy). The print shows the _Tempaizan_ scene at Mount Tempai on Kyushu, where the exiled Sugawara, known as Kan Shojo, learns in a dream that his favourite plum tree from the garden in his home in Sada village has been moved to nearby Anraku Temple so that he may enjoy its blossoms. When he goes there he encounters one of his retainers, Umeomaru, involved in a duel. He breaks off a branch from the tree and magically decapitates Umeomaru's opponent. He then learns from Umeomaru that his loss of position at court and subsequent exile are due to the machinations of his rival Shihei (Fujiwara Tokihira). Flying into a rage he turns into the Thunder god, raises a storm and, to the accompaniment of lightning, flies off to the capital (Kyoto) to muster support in preventing Shihei from gaining power.
+
+The print conflates the scene of the duel with Kan Shojo's transformation into the Thunder God. The poems include images of blossoms of plum (_umeo_), and Umeomaru's jacket is decorated with the flower. Kan Shojo was one of Danjuro's most celebrated roles. Almost twenty years earlier Kunisada designed a print of him in the role with the branch of plum blossom clenched between his teeth, in a set of 'Great Performances'.

@@ -1,16 +1,18 @@
 ---
 title: "The reuse of printing blocks"
-permalink: "/context/the-reuse-of-printing-blocks"
+permalink: "/context/textK"
 layout: default
-image: /images/prints/Kunisada%20Loan%20S220.jpg
+image: /images/prints/kunisada_loan_s220.jpg
+order: k
 ---
 
-![Reused blocks]({{site.baseurl}}/images/prints/Kunisada%20Loan%20S220.jpg)
+![Reused blocks]({{site.baseurl}}/images/prints/kunisada_loan_s220.jpg)
 
-(KUN/knu220.htm)
+{%include texts/knu220.md %}
 
-![Original blocks]({{site.baseurl}}/images/prints/Kunisada%20Loan%20S171.jpg)
-(KUN/kun171.htm)
+![Original blocks]({{site.baseurl}}/images/prints/kunisada_loan_s171.jpg)
+
+{%include texts/kun171.md %}
 
 The blocks cut for actor prints were rarely re-used in the nineteenth century.
 This comparison of the exceptional re-use of blocks by the Edo publisher Sanoya Kihei

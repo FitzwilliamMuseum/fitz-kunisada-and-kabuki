@@ -1,6 +1,6 @@
 Kunisada 29
 
-![Natsu no Fuji (Fuji in Summer)](kunisada/Kunisada%20Loan%20-%20Natsu%20no%20Fuji%20vol%202.jpg)� The Fitzwilliam Museum
+![Natsu no Fuji (Fuji in Summer)](kunisada/Kunisada%20Loan%20-%20Natsu%20no%20Fuji%20vol%202.jpg)The Fitzwilliam Museum
 
  **_Natsu no Fuji_ (Fuji in Summer)**
 

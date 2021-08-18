@@ -5,11 +5,14 @@ permalink: /exhibition/group-22
 image: /images/prints/p.63-1999.jpg
 ---
 
-![Kunisada Image](/images/prints/p.63-1999.jpg)
+![Kunisada Image](/images/prints/p.63-1999.jpg){: .img-fluid }
+
 (KUN/kunp63.htm)
 
-![Kunisada Image](/images/prints/p.64-1999.jpg)
+![Kunisada Image](/images/prints/p.64-1999.jpg){: .img-fluid }
+
 (KUN/kunp64.htm)
 
-![Kunisada Image](/images/prints/p.65-1999.jpg)
+![Kunisada Image](/images/prints/p.65-1999.jpg){: .img-fluid }
+
 (KUN/kunp65.htm)

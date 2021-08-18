@@ -2,7 +2,7 @@ Kunisada
 
 ![Segawa Kikunojo V ](kunisada/Part%20III/P.59-1938.jpg)
 
-� The Fitzwilliam Museum **Segawa Kikunojo V**
+The Fitzwilliam Museum **Segawa Kikunojo V**
 
 
 [![](../backgrounds/back/backward.gif)](kunpt358.htm)

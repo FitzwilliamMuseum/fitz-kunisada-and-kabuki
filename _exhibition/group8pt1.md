@@ -7,7 +7,7 @@ layout: default
 order: 8
 ---
 
-![Ichikawa Danjuro VII](/images/prints/kunisada_loan_148.jpg)
+![Ichikawa Danjuro VII](/images/prints/kunisada_loan_148.jpg){: .img-fluid }
 
 This print was issued commercially in the autumn of 1831. It is laden with visual and textual information for the viewer to process. The following notes indicate some of the ways in which this print would have been read when first offered for sale.
 
@@ -46,7 +46,7 @@ Kunisada has depicted Danjuro as Matsuomaru at this dreadful moment. We see the 
 
 ----
 
-![Kunisada_Loan](/images/prints/kunisada_loan_252.jpg)
+![Kunisada_Loan](/images/prints/kunisada_loan_252.jpg){: .img-fluid }
 
 
 **Ichikawa Ebizo V (formerly [Danjuro VII)](/exhibition/group-8-part-1) as Fuwa Banzaemon (right) and [Onoe Kikugoro III](/exhibition/group-16-part-1) as Nagoya Sanza (left) in _[Nagoya obi kumo ni inazuma](/exhibition/group-4)_ [(A Nagoya rope sash and robes with lightning bolts amidst clouds](/exhibition/group-4)) performed at the Morita Theatre in 09/1836**
@@ -64,19 +64,25 @@ Kikugoro's poem is signed with his [poetry name _Baiko_.](/context/textD) As wel
 
 Passing by each other _Yuki-chigau_wild geese and swallows  _kari ni tsubame ya_over ripened pampas grass. _hanasusuki._
 
-![Kunisada_Loan](/images/prints/kunisada_loan_319.jpg)(KUN/kun319.htm)
+![Kunisada_Loan](/images/prints/kunisada_loan_319.jpg){: .img-fluid }
 
-![Kunisada_Loan](/images/prints/kunisada_loan_479.jpg)
+(KUN/kun319.htm)
+
+![Kunisada_Loan](/images/prints/kunisada_loan_479.jpg){: .img-fluid }
+
 (KUN/kun479.htm)
 
 ![Kunisada_Loan](/images/prints/kunisada_loan_499.jpg)(KUN/kun499.htm)
 
-![Kunisada_Loan](/images/prints/kunisada_loan_556.jpg)(KUN/kun556.htm)
+![Kunisada_Loan](/images/prints/kunisada_loan_556.jpg){: .img-fluid }
 
-![Kunisada_Loan](/images/prints/kunisada_loan_-_Natsu_no_Fuji_vol_2.jpg)
+(KUN/kun556.htm)
+
+![Kunisada_Loan](/images/prints/kunisada_loan_-_Natsu_no_Fuji_vol_2.jpg){: .img-fluid }
+
 (KUN/infovol2.htm)
 
-![](/images/prints/kunisada_loan_4051.jpg)
+![](/images/prints/kunisada_loan_4051.jpg){: .img-fluid }
 (KUN/kun405.htm)
 
-(textE.htm)
+(/context/textE)
