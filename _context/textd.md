@@ -1,8 +1,9 @@
 ---
-title: Actors' names and crests
+title: "Actors' names and crests"
 layout: default
 permalink: /context/textD
 order: d
+image: /images/prints/kunisada_loan_499.jpg
 ---
 
 The art of the Kabuki theatre was handed down to successive generations of actors to refine and develop, and the continuity of acting traditions was reflected in their use of the same stage names. Within a family of actors, the stage name indicated the rank and relative skill of the individual using it.

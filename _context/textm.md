@@ -3,9 +3,11 @@ order: m
 layout: default
 title: "Onoe Kikugoro III"
 permalink: /context/textM
+image: /images/prints/p.491-1937.jpg
+theme: Actor
 ---
 
-## [Onoe Kikugoro III](/exhibition/group-16-part-3)
+**[Onoe Kikugoro III](/exhibition/group-16-part-3)**
 
 Kikugoro III (1784-1849) was one of the most talented actors of his age. He was adopted into the Onoe lineage of actors and made his debut at the age of four under the name Onoe Eisaburo I. After playing the parts of young men, he assumed the name of his adoptive father in 1809, becoming Onoe Matsusuke II. In 1814 he became Onoe Baiko, and a year later his reputation was such that he became the first actor for almost 30 years to succeed to the Kikugoro name, becoming Onoe Kikugoro III (although he retained the name Baiko to sign his poetry). He became head of the company (_zagashira_) at Edo's Miyako theatre in 1817, after which his reputation grew for arrogance and feuding (particularly with his rival [Danjuro VII](/exhibition/group-8-part-1)). All too conscious of his own good looks, he was apparently narcissistic and difficult.
 

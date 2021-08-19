@@ -1,6 +1,6 @@
-Kunisada 51
+**Nakamura Fukusuke I as Minamoto no Raiko(right), Ichikawa Ichizo III as Hakamadare Yasusuke (centre) and [Kawarazaki Gonjuro I](/exhibition/group-18) as Usui Sadamitsu (left)** **1858/12**
 
-**[Nakamura Fukusuke I](..//exhibition/group-21) as Minamoto no Raiko(right), Ichikawa Ichizo III as Hakamadare Yasusuke (centre) and [Kawarazaki Gonjuro I](../Group18.htm) as Usui Sadamitsu (left)** **1858/12**
+_Kunisada 51_
 
 Given by the Friends of the Fitzwilliam with the aid of the MGC Purchase Grant Fund and the National Art Collections Fund.
 

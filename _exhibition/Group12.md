@@ -4,25 +4,27 @@ title: Ichikawa Danjuro VIII
 layout: default
 image: /images/prints/p.66-1999.jpg
 permalink: /exhibition/group-12
+order: 13
+group: "Group 12"
 ---
 ![Kunisada Loan ](/images/prints/kunisada_loan_499.jpg){: .img-fluid }
 
-{% include texts/kun499.md %}
+{% include texts/text499.md %}
 
 ![Kunisada image](/images/prints/p.61-1999.jpg){: .img-fluid }
 
-{% include texts/kunp61.md %}
+{% include texts/textp61.md %}
 
 ![Kunisada image](/images/prints/p.66-1999.jpg){: .img-fluid }
 
-{% include texts/kunp66.md %}
+{% include texts/textp66.md %}
 
 ![Kunisada Image](/images/prints/p.57-1999.jpg){: .img-fluid }
 
-{% include texts/kunp57.md %}
+{% include texts/textp57.md %}
 
 ![Kunisada Image](/images/prints/p.60-1999.jpg){: .img-fluid }
 
-{% include texts/kunp60.md %}
+{% include texts/textp60.md %}
 
-[More Info](/context/textN)
+[Learn more about Ichikawa Danjuro VIII](/context/textN){: .btn .btn-dark .d-block }

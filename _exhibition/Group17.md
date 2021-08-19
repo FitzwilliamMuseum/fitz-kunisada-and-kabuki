@@ -3,28 +3,32 @@ title: "Prints of other (non actor) surimono by Kunisada"
 layout: default
 permalink: /exhibition/group-17
 image: /images/prints/p.489-1937.jpg
+order: 19
+group: "Group 17"
 ---
 
 ![Kunisada Image](/images/prints/p.494-1937.jpg){: .img-fluid }
 
-(KUN/kunp494.htm)
+{% include texts/text494.md %}
 
 ![Kunisada Image](/images/prints/p.489-1937.jpg){: .img-fluid }
 
-(KUN/kunp489.htm)
+{% include texts/text489.md %}
 
 ![Kunisada Image](/images/prints/p.60-1938.jpg){: .img-fluid }
 
-(KUN/kunpt360.htm)
+{% include texts/text360.md %}
 
 ![Kunisada Image](/images/prints/p.482-1937.jpg){: .img-fluid }
 
-(KUN/kunp482.htm)
+{% include texts/text482.md %}
 
 ![Kunisada Image](/images/prints/p.483-1937.jpg){: .img-fluid }
 
-(KUN/kunp483.htm)
+{% include texts/text483.md %}
 
 ![Kunisada Image](/images/prints/p.504-1937.jpg){: .img-fluid }
 
-(KUN/kunp504.htm)
+{% include texts/text504t.md %}
+
+[Learn more about surimono](/context/textN){: .btn .btn-dark .d-block }

@@ -3,13 +3,12 @@ order: p
 title: Surimono and special printing effects
 layout: default
 permalink: /context/textP
+image: /images/prints/p.491-1937.jpg
 ---
 
-![P.491-1937.jpg (58938 bytes)](/images/prints/p.491-1937.jpg)
-
-![P.73-1999.jpg (75750 bytes)](/images/prints/p.73-1999.jpg)
-
-![Ichikawa Danjuro VII as Soga no Goro and Bando Mitsugoro III as Asaina no Saburo in the armour-pulling scene (kusazuribiku)](/images/prints/p.503-1937.jpg)
+![P.491-1937.jpg (58938 bytes)](/images/prints/p.491-1937.jpg){: .img-fluid }
+![P.73-1999.jpg (75750 bytes)](/images/prints/p.73-1999.jpg){: .img-fluid }
+![Ichikawa Danjuro VII as Soga no Goro and Bando Mitsugoro III as Asaina no Saburo in the armour-pulling scene (kusazuribiku)](/images/prints/p.503-1937.jpg){: .img-fluid }
 
 All the prints illustrated on this website are colour prints from multiple woodblocks. The category of Japanese woodblock print known as surimono, meaning literally 'printed thing', was distinguished from most of the other prints in several ways: surimono were privately commissioned and distributed rather than being issued by a commercial publisher; they were printed on thicker paper _hosho_ ('presentation paper') which facilitated special printing effects; and they were consistently adorned with poems that played games with the links between verbal and visual imagery. By comparison with run-of-the-mill commercial issues, surimono were a luxury that displayed the wealth and taste of the individual or individuals who commissioned them. For the artist they represented high-profile commissions executed in close consultation with the leading connoisseurs, poets and actors of the day.
 

@@ -1,5 +1,7 @@
 **Kawarazaki Shisen (Kawarazaki Gonjuro I as Umeo-maru and Ichimura Kakitsu (Ichimura Uzaemon XIII) as Sakura-maru**
 
+Kunisada 64
+
 Kawarazaki Shisen ([Kawarazaki Gonjuro I](/exhibition/group-18)) as [Umeo-maru](KUN/kunp87.htm) and Ichimura Kakitsu (Ichimura Uzaemon XIII) as Sakura-maru in _[Sugawara denju tenarai kagami](/exhibition/group-3)_ (Sugawara and the secrets of calligraphy) performed at the Ichimura theatre from 17/10/1861
 
 

@@ -4,7 +4,7 @@ Kunisada 99
 
 � The Fitzwilliam Museum
 
-**[Three heroes of the kingdom of Shu](../Group9.htm)**
+**[Three heroes of the kingdom of Shu](/exhibition/group-9)**
 
 c. 1825
 

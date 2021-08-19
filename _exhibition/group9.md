@@ -5,17 +5,18 @@ layout: default
 permalink: /exhibition/group-9
 image: /images/prints/kunisada_loan_206.jpg
 order: 11
+group: "Group 9"
 ---
 
 ![Kunisada Loan ](/images/prints/kunisada_loan_206.jpg){: .img-fluid }
 
 {% include texts/text206.md %}
 
-![Kunisada Loan ](/images/prints/kunisada_loan_-_Natsu_no_Fuji_vol_1.jpg){: .img-fluid }
+![Kunisada Loan ](/images/prints/kunisada_loan_-_natsu_no_fuji_vol_1.jpg){: .img-fluid }
 
 {% include texts/textnovol1.md %}
 
-![Kunisada Loan ](/images/prints/kunisada_loan_-_Natsu_no_Fuji_vol_2.jpg){: .img-fluid }
+![Kunisada Loan ](/images/prints/kunisada_loan_-_natsu_no_fuji_vol_2.jpg){: .img-fluid }
 
 {% include texts/textnovol2.md %}
 

@@ -3,9 +3,11 @@ order: n
 layout: default
 permalink: /context/textN
 title: Ichikawa Danjuro VIII
+image: /images/prints/kunisada_loan_499.jpg
+theme: Actor
 ---
 
-## [Ichikawa Danjuro VIII](/exhibition/group-12)**
+**[Ichikawa Danjuro VIII](/exhibition/group-12)**
 
 Danjuro VIII (1823-54) was the son of [Danjuro VII](/exhibition/group-8-part-1) and made his debut in the year of his birth in the _kaomise_ ('face-showing') performance that opened the season at the Ichimura theatre. Two years later he became Ichikawa Ebizo, a name he kept until he was nine, when his father passed to him the Danjuro name, and [assumed the name Ebizo for himself.](/context/textD) He became a leader of company (_zagashira_) six years later in 1838.
 

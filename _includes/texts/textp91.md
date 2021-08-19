@@ -1,5 +1,3 @@
-### Ichikawa Sansho (Danjuro IX) as Aoito no Goro Terutsuna
-
 **Ichikawa Sansho ([Danjuro IX](/exhibition/group-18)) as Aoito no Goro Terutsuna in _Shibaraku!_ ('Stop right there!')**
 
 12/1864

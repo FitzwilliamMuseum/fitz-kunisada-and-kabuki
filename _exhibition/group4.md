@@ -5,6 +5,7 @@ permalink: /exhibition/group-4
 layout: default
 image: /images/prints/p.516-1937.jpg
 order: 4
+group: Group 4
 ---
 
 ![Kunisada Loan ](/images/prints/kunisada_loan_556.jpg){: .img-fluid }

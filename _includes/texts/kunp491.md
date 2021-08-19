@@ -3,7 +3,7 @@ Kunisada 91
   ![](kunisada/Part%20III/P.491-1937.jpg)
 � The Fitzwilliam Museum
 
-**[Onoe Kikugoro III](..//exhibition/group-16-part-3) taking tea at Shinagawa
+**[Onoe Kikugoro III](/exhibition/group-16-part-3) taking tea at Shinagawa
 
 **c.1825
 Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937

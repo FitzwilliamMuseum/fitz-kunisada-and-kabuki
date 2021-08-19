@@ -1,6 +1,6 @@
 Kunisada 54
 
-**[Onoe Baiko](kunp80.htm) as Wada Shizuma (right), [Ichikawa Ebizo V](..//exhibition/group-8-part-1) as Yamada Kobei (centre) and Kataoka Nizaemon VIII as Karaki Masaemon with an inset of Onoe Kikugoro IV as his wife O-Tani (left)** 01/1859
+**[Onoe Baiko](kunp80.htm) as Wada Shizuma (right), [Ichikawa Ebizo V](/exhibition/group-8-part-1) as Yamada Kobei (centre) and Kataoka Nizaemon VIII as Karaki Masaemon with an inset of Onoe Kikugoro IV as his wife O-Tani (left)** 01/1859
 
 Given by the Friends of the Fitzwilliam with the aid of the MGC Purchase Grant Fund and the National Art Collections Fund.
 

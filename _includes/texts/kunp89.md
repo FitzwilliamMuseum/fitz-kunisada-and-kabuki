@@ -1,7 +1,7 @@
 Kunisada 67
 
 
-**_Kawarazaki Gonjuro Yaegaki Monza � kawara nadeshiko_ ([Kawarazaki Gonjuro I](../Group18.htm) as Yaegaki Monza: Wild Pink)**
+**_Kawarazaki Gonjuro Yaegaki Monza � kawara nadeshiko_ ([Kawarazaki Gonjuro I](/exhibition/group-18) as Yaegaki Monza: Wild Pink)**
 
 1862
 

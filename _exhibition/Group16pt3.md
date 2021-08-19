@@ -3,38 +3,40 @@ title: 'Prints of Onoe Kikugoro III -  Surimono'
 layout: default
 permalink: /exhibition/group-16-part-3
 image: /images/prints/p.475-1937.jpg
+order: 18
+group: Group 16 part 3
 ---
 
 ![Kunisada Image](/images/prints/p.475-1937.jpg){: .img-fluid }
 
-(KUN/kunp475.htm)
+{% include texts/kunp475.md %}
 
 ![Kunisada Image](/images/prints/p.62-1938.jpg){: .img-fluid }
 
-(KUN/kunpt362.htm) 
+{% include texts/kunpt362.md %}
 
 ![Kunisada Image](/images/prints/p.479-1937.jpg){: .img-fluid }
 
-(KUN/kunp479.htm)
+{% include texts/kunp479.md %}
 
 ![Kunisada Image](/images/prints/p.491-1937.jpg){: .img-fluid }
 
-(KUN/kunp491.htm)
+{% include texts/text491.md %}
 
 ![Kunisada Image](/images/prints/p.496-1937.jpg){: .img-fluid }
 
-(KUN/kunp496.htm)
+{% include texts/text496.md %}
 
 ![Kunisada Image](/images/prints/p.502-1937.jpg){: .img-fluid }
 
-(KUN/kunp502.htm)
+{% include texts/kunp502.md %}
 
 ![Kunisada](/images/prints/p.515-1937.jpg){: .img-fluid }
 
-(KUN/kunp515.htm)
+{% include texts/kunp515.md %}
 
 ![](/images/prints/p.508-1937.jpg){: .img-fluid }
 
-(KUN/kunp508.htm)
+{% include texts/text508.md %}
 
-![More Info](/context/textM)
+[Learn more about Onoe Kikugoro III](/context/textM){: .btn .btn-dark .d-block}

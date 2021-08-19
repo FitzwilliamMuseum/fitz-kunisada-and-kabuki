@@ -1,10 +1,5 @@
-Kunisada 36
-
-![Shokoku Kiyomori (First Minister [Taira no] Kiyomori)](kunisada/P.59-1999.jpg)
-� The Fitzwilliam Museum
-
 **_Shokoku Kiyomori_ (First Minister \[Taira no\] Kiyomori)**
-
+Kunisada 36
 02/1852
 
 Given by the Friends of the Fitzwilliam with the aid of the MGC Purchase Grant Fund and the National Art Collections Fund.

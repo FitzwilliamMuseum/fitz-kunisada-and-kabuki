@@ -3,6 +3,7 @@ title: Nakamura Shikan IV
 layout: default
 permalink: /context/textT
 order: t
+image: /images/prints/p.81-1999.jpg
 ---
 ## [Nakamura Shikan IV](/exhibition/group-21)
 

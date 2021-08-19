@@ -5,6 +5,7 @@ permalink: /exhibition/group-7
 layout: default
 image: /images/prints/kunisada_loan_293.jpg
 order: 7
+group: Group 7
 ---
 ![Kunisada Loan]({{site.baseurl}}/images/prints/kunisada_loan_293.jpg){: .img-fluid }
 

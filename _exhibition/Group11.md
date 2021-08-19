@@ -4,6 +4,8 @@ title: Mirror format prints
 layout: default
 image: /images/prints/p.78-1999.jpg
 permalink: /exhibition/group-11
+order: 12
+group: "Group 11"
 ---
 
 ![Kunisada Image](/images/prints/p.78-1999.jpg){: .img-fluid }
@@ -50,7 +52,7 @@ The printing includes burnishing (_tsyra-zuri_) on the black. The seal of the le
 
 ![Kunisada Image](/images/prints/p.81-1999.jpg){: .img-fluid }
 
-#### [Nakamura Fukusuke I](/exhibition/group-21) as [Soga no Goro](/exhibition/group-6) in _Yayoi-zakura hisago no makubari_, performed at the Nakamura theatre from 09/03/1860
+#### [Nakamura Fukusuke I](/exhibition/group-21) as [Soga no Goro](/exhibition/group-6) in _Yayoi-zakura hisago no makubari_ , performed at the Nakamura theatre from 09/03/1860
 {: .display-5 .text-info }
 
 Given by the Friends of the Fitzwilliam with the aid of the MGC Purchase Grant Fund and the National Art Collections Fund.
@@ -87,7 +89,7 @@ Given by the Friends of the Fitzwilliam with the aid of the MGC Purchase Grant F
 
 From the series _Imayo oshi-e kagami_ (Up-to-date Padded Pictures in Mirrors). Kunisada designed several series of portraits of actors reflected in mirrors. Six prints from this series are included in this exhibition.
 
-The act entitled _Tomo yakko_ was a _Yakko mono_ ('footman play') that originally formed part of the quick-change dance play _Nijiri Gaki Nanatsu Iroha_. The role of the footman was made famous in 1828 by its first exponent [Shikan II](Group20.htm) (adoptive father of Fukusuke I), so _Tomo Yakko_ was sometimes known as the 'Shikan play' (_Shikan mono_) and the character usually wore the Shikan _mon_ (crest) on his costume. The piece involves the colourfully dressed footman, something of a dandy, performing a dance with exaggerated steps (_tanzen roppo_).
+The act entitled _Tomo yakko_ was a _Yakko mono_ ('footman play') that originally formed part of the quick-change dance play _Nijiri Gaki Nanatsu Iroha_. The role of the footman was made famous in 1828 by its first exponent [Shikan II](/exhibition/group-20) (adoptive father of Fukusuke I), so _Tomo Yakko_ was sometimes known as the 'Shikan play' (_Shikan mono_) and the character usually wore the Shikan _mon_ (crest) on his costume. The piece involves the colourfully dressed footman, something of a dandy, performing a dance with exaggerated steps (_tanzen roppo_).
 
 The printing includes blind embossing (_karazuri_) and burnishing (_tsuya-zuri_) on the black. The seal of the leading block-carver Yokokawa Takejiro appears on the print.
 

@@ -1,5 +1,3 @@
-### Kawarazaki Gonjuro Yaegaki Monza kawara nadeshiko
-
 **_Kawarazaki Gonjuro Yaegaki Monza kawara nadeshiko_ ([Kawarazaki Gonjuro I](/exhibition/group-18) as Yaegaki Monza: Wild Pink)**
 
 1862

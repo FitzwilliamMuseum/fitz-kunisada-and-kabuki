@@ -6,6 +6,8 @@ Private collection
 
 Volume 2
 
+_Kunisada 29_
+
 Ichikawa [Danjuro VII](/context/textE) is shown in his sumptuous residence, seated to the left and holding a folding fan on which he is about to inscribe a poem. Fans that he has already inscribed lie at his side.
 
 On the right the actor Araki Minsho applies Danjuro's personal seal to the inscribed fans. The manager of the Nakamura theatre, Nakamura Denkuro and an assistant manager, Naritaya Sobei, look on. The painting resting against the back wall is of the actor Matsumoto Koshiro V and carries Kunisada's signature.

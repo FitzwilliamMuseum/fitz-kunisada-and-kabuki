@@ -3,6 +3,7 @@ permalink: /context/textF
 title: Fan prints
 layout: default
 order: f
+image: /images/prints/textF.1.jpg
 ---
 ![fan print](/images/prints/textF.1.jpg)
 

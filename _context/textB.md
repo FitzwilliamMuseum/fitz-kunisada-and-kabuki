@@ -3,6 +3,7 @@ permalink: /context/textB
 title: Inside a theatre
 layout: default
 order: b
+image: /images/prints/japanese_theatre_interior_high_res.jpg
 ---
 ![Japanese Theatre Interior]({{site.baseurl}}/images/prints/japanese_theatre_interior_high_res.jpg){: .img-fluid}
 

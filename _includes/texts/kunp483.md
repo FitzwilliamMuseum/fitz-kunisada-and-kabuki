@@ -1,7 +1,7 @@
 Kunisada 41
 
 
-**_[Rokuban hidari � Gempei](../Group9.htm)_ [(Number six, left: Gempei)](../Group9.htm)
+**_[Rokuban hidari � Gempei](/exhibition/group-9)_ [(Number six, left: Gempei)](/exhibition/group-9)
 c.1825
 
 

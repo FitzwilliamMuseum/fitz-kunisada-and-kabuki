@@ -1,6 +1,6 @@
 Kunisada 92
 
-**Otowaya [(Onoe Kikugoro III)](..//exhibition/group-16-part-3) at Umemoto**
+**Otowaya [(Onoe Kikugoro III)](/exhibition/group-16-part-3) at Umemoto**
 c.1825
 Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937
 

@@ -11,7 +11,7 @@ Kunisada themes page
 
 Choose a Play or Scene
 
-![](bd10265_1.gif) [Kagekiyo](Group14.htm)
+![](bd10265_1.gif) [Kagekiyo](/exhibition/group-14)
 ![](bd10265_1.gif) [Scabbards touching in Nakano Street](/exhibition/group-4)_
 
 >
@@ -33,7 +33,7 @@ Choose an Actor
 >
 > ![](bd10265_1.gif) [Iwai Kumesaburo II](/exhibition/group-19)
 >
-> ![](bd10265_1.gif) [Nakamura Shikan II](Group20.htm) 
+> ![](bd10265_1.gif) [Nakamura Shikan II](/exhibition/group-20) 
 >
 > ![](bd10265_1.gif) [Nakamura Shikan IV](/exhibition/group-21) 
 >
@@ -45,4 +45,4 @@ Choose an Actor
 
  ![](bd10265_1.gif) [Actors at Leisure  
 
-](Group9.htm) ![](bd10265_1.gif) [How to Read an Actor Print](/context/textH)**
+](/exhibition/group-9) ![](bd10265_1.gif) [How to Read an Actor Print](/context/textH)**

@@ -1,7 +1,7 @@
 Kunisada 74
 **Ichikawa Monnosuke III and Ichikawa Koisaburo in a mad scene (_kyoran_)**
 
-_c_.1823-4
+c. 1823-4
 
 Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937
 

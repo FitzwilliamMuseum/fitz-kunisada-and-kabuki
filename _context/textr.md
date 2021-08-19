@@ -3,6 +3,7 @@ order: r
 title: Segawa Kikunojo V
 layout: default
 permalink: /context/textR
+image: /images/prints/kunisada_loan_293.jpg
 ---
 ## [Segawa Kikunojo V](/exhibition/group-7)
 

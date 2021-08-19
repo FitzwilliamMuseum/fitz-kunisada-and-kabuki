@@ -3,6 +3,7 @@ order: q
 title: Iwai Kumesaburo II
 permalink: /context/textQ
 layout: default
+image: /images/prints/kunisada_loan_173.jpg
 ---
 **[Iwai Kumesaburo II](/exhibition/group-19)**
 

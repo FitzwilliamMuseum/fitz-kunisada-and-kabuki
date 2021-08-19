@@ -5,6 +5,7 @@ permalink: /exhibition/group-1
 layout: default
 image: /images/prints/p.55-1999.jpg
 order: 1
+group: Group 1
 ---
 
 ![The village of eight bridges at Okazaki]({{site.baseurl}}/images/prints/p.55-1999.jpg){: .img-fluid }

@@ -1,4 +1,3 @@
-
 **Ichimura Takenojo V as Abe no Yasuna**
 
 10/1862

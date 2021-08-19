@@ -1,6 +1,6 @@
 Kunisada 60
 
-**[Nakamura Fukusuke I (Shikan IV)](..//exhibition/group-21) as Tomo-yakko Fukuhei**
+**[Nakamura Fukusuke I (Shikan IV)](/exhibition/group-21) as Tomo-yakko Fukuhei**
 
 08/1860
 

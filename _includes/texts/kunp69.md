@@ -11,6 +11,6 @@ Given by the Friends of the Fitzwilliam with the aid of the MGC Purchase Grant F
 
 
 
-Portrait of Ichikawa Ebizo V (formerly [Danjuro VII](..//exhibition/group-8-part-1)) as Dainagon Yorimoto, juxtaposed with a poem by Kiichi Hogen, from the series _Mitate sanju-rokkasen no uchi_ (Comparisons with the Thirty-six Immortals of Poetry).
+Portrait of Ichikawa Ebizo V (formerly [Danjuro VII](/exhibition/group-8-part-1)) as Dainagon Yorimoto, juxtaposed with a poem by Kiichi Hogen, from the series _Mitate sanju-rokkasen no uchi_ (Comparisons with the Thirty-six Immortals of Poetry).
 
 [For a more detailed description](../textp69.htm)

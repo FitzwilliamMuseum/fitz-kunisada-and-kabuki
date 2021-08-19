@@ -1,4 +1,3 @@
-
 **_Yakusha kijinden_ (Biographies of eccentric actors)**
 
 Page from the book of this title, printed from woodblocks, 1833

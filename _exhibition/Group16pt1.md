@@ -3,34 +3,35 @@ title: Prints of Onoe Kikugoro III
 layout: default
 permalink: /exhibition/group-16-part-1
 image: /images/prints/kunisada_loan_220.jpg
+order: 17
+group: "Group 16, Part 1"
 ---
 ![Kunisada Image](/images/prints/kunisada_loan_220.jpg){: .img-fluid }
 
-(KUN/knu220.htm)
+{% include texts/knu220.md %}
 
 ![Kunisada Image](/images/prints/kunisada_loan_291.jpg){: .img-fluid }
 
-(KUN/kun291.htm)
+{% include texts/text291.md %}
 
 ![Kunisada Image](/images/prints/kunisada_loan_290.jpg){: .img-fluid }
 
-(KUN/kun290.htm)
+{% include texts/kun290.md %}
 
 ![Kunisada Image](/images/prints/kunisada_loan_556.jpg){: .img-fluid }
 
-(KUN/kun556.htm)
+{% include texts/kun556.md %}
 
 ![Kunisada Image](/images/prints/p.55-1999.jpg){: .img-fluid }
 
-(KUN/kunp55.htm)
+{% include texts/textp55.md %}
 
 ![Kunisada Image](/images/prints/kunisada_loan_565.jpg){: .img-fluid }
 
-(KUN/kun565.htm)
+{% include texts/kun565.md %})
 
 ![Kunisada Image](/images/prints/p.71-1999.jpg){: .img-fluid }
 
-(KUN/kunp71.htm
+{% include texts/textp71.md %}
 
-
-![More Info](/context/textM)
+[Learn more about Onoe Kikugoro III](/context/textM){: .btn .btn-dark .d-block }

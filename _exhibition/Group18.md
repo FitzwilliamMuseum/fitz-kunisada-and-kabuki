@@ -3,31 +3,32 @@ title: "Prints of Danjuro IX"
 layout: default
 permalink: /exhibition/group-18
 image: /images/prints/p.74-1999.jpg
+order: 20
+group: "Group 18"
 ---
 
 ![Kunisada Image](/images/prints/p.74-1999.jpg){: .img-fluid }
 
-(KUN/kunp74.htm)
+{% include texts/kunp74.md %}
 
 ![Kunisada Image](/images/prints/p.86-1999.jpg){: .img-fluid }
 
-(KUN/kunp86.htm)
+{% include texts/textp86.md %}
 
 ![Kunisada Image](/images/prints/p.76-1999.jpg){: .img-fluid }
 
-(KUN/kunp76.htm)  
+{% include texts/textp76.md %}
 
 ![Kunisada Image](/images/prints/p.87-1999.jpg){: .img-fluid }
 
-(KUN/kunp87.htm)
+{% include texts/textp87.md %}
 
 ![Kunisada Image](/images/prints/p.89-1999.jpg){: .img-fluid }
 
-(KUN/kunp89.htm)
+{% include texts/textp89.md %}
 
 ![Kunisada Image](/images/prints/p.91-1999.jpg){: .img-fluid }
 
-(KUN/kunp91.htm)
+{% include texts/textp91.md %}
 
-![More Info](moreinfo.gif)
-(textO.htm)
+[Learn more about Prints of Danjuro IX](/context/textO){: .btn .btn-dark .d-block }

@@ -5,6 +5,7 @@ permalink: /exhibition/group-6
 layout: default
 image: /images/prints/kunisada_loan_272.jpg
 order: 6
+group: Group 6
 ---
 
 ![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_272.jpg){: .img-fluid }
@@ -26,7 +27,7 @@ From the set An Imagined Confrontation of the Three Theatres (_San shibai mitate
 
 ![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_406.jpg){: .img-fluid }
 
-### [Segawa Kikunojo V](..//exhibition/group-7) as Agemaki in _[Sukeroku yukari no Edo zakura](/exhibition/group-5)_
+### [Segawa Kikunojo V](/exhibition/group-7) as Agemaki in _[Sukeroku yukari no Edo zakura](/exhibition/group-5)_
 
 (Sukeroku's affinity for the cherry blossoms of Edo) performed at the Tamagawa Theatre in 1819
 

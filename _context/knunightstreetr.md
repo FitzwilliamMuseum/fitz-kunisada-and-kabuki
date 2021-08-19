@@ -1,7 +1,4 @@
-Kunisada
-
-![Night view of Saruwaka Street by Utagawa Hiroshige](kunisada/Intro/P.188-1946.jpg)  
-� The Fitzwilliam Museum
+![Night view of Saruwaka Street by Utagawa Hiroshige](/images/prints/p.188-1946.jpg)  
 
 **Night view of Saruwaka Street by Utagawa Hiroshige**
 

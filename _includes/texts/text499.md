@@ -1,5 +1,6 @@
-
 **Ichikawa Danjuro VIII as Kamakura Gongoro in  _Shibaraku!_ (Stop Right There!) with Ichikawa Ebizo V (formerly Danjuro VII) in the background as the villain Narita Goro.**
+
+_Kunisada 5_
 
 c.1836
 
