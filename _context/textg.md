@@ -1,5 +1,5 @@
 ---
-permalink: /theme/fan-prints-two
+permalink: /themes/fan-prints-two
 title: Fan prints
 layout: default
 order: g

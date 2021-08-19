@@ -7,4 +7,4 @@ The Fitzwilliam Museum
 
 1856\. The Morita, Ichimura and Nakamura theatres are seen on the right
 
-[For a more detailed description](/theme/saruwaka-street)
+[For a more detailed description](/themes/saruwaka-street)

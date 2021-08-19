@@ -8,4 +8,4 @@ A surimono showing a scene from a play based on the subject of the Eternal Coupl
 
 The Eternal Couple were a popular subject in art. They are usually shown, Jo with a rake and Uba with a broom, sweeping pine needles, which symbolise longevity, an appropriate wish for surimono intended as New Year gifts.
 
-The producer's seal of [Suriko Kozen](/theme/surimono-and-special-printing-effects) appears on the print.
+The producer's seal of [Suriko Kozen](/themes/surimono-and-special-printing-effects) appears on the print.

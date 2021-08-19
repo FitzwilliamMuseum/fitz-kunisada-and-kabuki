@@ -27,4 +27,4 @@ group: "Group 12"
 
 {% include texts/textp60.md %}
 
-[Learn more about Ichikawa Danjuro VIII](/theme/ichikawa-danjuro-VIII){: .btn .btn-dark .d-block }
+[Learn more about Ichikawa Danjuro VIII](/themes/ichikawa-danjuro-VIII){: .btn .btn-dark .d-block }

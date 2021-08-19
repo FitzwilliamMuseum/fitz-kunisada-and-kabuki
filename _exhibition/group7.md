@@ -67,4 +67,4 @@ P.512-1937
 
 P.517-1937
 
-[moreinfo](/theme/segawa-kikunojo-V)
+[moreinfo](/themes/segawa-kikunojo-V)

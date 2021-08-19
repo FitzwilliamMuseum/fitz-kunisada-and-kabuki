@@ -1,15 +1,15 @@
 ---
-permalink: /theme/fan-prints-one
+permalink: /themes/fan-prints-one
 title: Fan prints
 layout: default
 order: f
-image: /images/prints/textF.1.jpg
+image: /images/prints/textf.1.jpg
 ---
-![fan print](/images/prints/textF.1.jpg)
+![fan print](/images/prints/textf.1.jpg)
 
 {% include texts/kun405.md %}
 
-![fan print](/images/prints/textF.2.jpg)
+![fan print](/images/prints/textf.2.jpg)
 
 {% include texts/kun406.md %}
 

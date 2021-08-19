@@ -34,4 +34,4 @@ group: "Group 16, Part 1"
 
 {% include texts/textp71.md %}
 
-[Learn more about Onoe Kikugoro III](/theme/onoe-kikugoro-iii){: .btn .btn-dark .d-block }
+[Learn more about Onoe Kikugoro III](/themes/onoe-kikugoro-iii){: .btn .btn-dark .d-block }

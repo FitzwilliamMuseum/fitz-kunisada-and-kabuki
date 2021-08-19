@@ -5,4 +5,4 @@
 
 Private collection
 
-[For a more detailed description](/theme/fan-prints-one)
+[For a more detailed description](/themes/fan-prints-one)

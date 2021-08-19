@@ -2,7 +2,7 @@
 order: o
 title: Ichikawa Danjuro IX
 layout: default
-permalink: /theme/ichikawa-danjuro-IX
+permalink: /themes/ichikawa-danjuro-IX
 image: /images/prints/p.74-1999.jpg
 ---
 

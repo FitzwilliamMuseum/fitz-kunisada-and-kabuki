@@ -20,4 +20,4 @@ group: "Group 8, Part 2"
 {% include texts/textp67.md %}
 
 
-[Learn more about the printsof Danjuro VII](/theme/textE){: .btn .btn-dark .d-block}
+[Learn more about the printsof Danjuro VII](/themes/textE){: .btn .btn-dark .d-block}

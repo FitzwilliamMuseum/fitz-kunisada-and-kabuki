@@ -1,6 +1,6 @@
 ---
 title: Round-mirror format prints
-permalink: /theme/round-mirror-format-prints
+permalink: /themes/round-mirror-format-prints
 layout: default
 order: l
 image: /images/prints/kunisada_loan_379.jpg

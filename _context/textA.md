@@ -1,5 +1,5 @@
 ---
-permalink: /theme/saruwaka-street
+permalink: /themes/saruwaka-street
 title: Saruwaka Street
 layout: default
 order: a

@@ -4,7 +4,7 @@
 11/1852
 
 Given by the Friends of the Fitzwilliam with the aid of the MGC Purchase Grant Fund and the National Art Collections Fund.
-Portrait of Ichikawa Ebizo V (formerly [Danjuro](/exhibition/group-8-part-1)  [VII](/theme/textE)) as Dainagon Yorimoto, juxtaposed with a poem by Kiichi Hogen, from the series _Mitate sanju-rokkasen no uchi_ (Comparisons with the Thirty-six Immortals of Poetry).
+Portrait of Ichikawa Ebizo V (formerly [Danjuro](/exhibition/group-8-part-1)  [VII](/themes/textE)) as Dainagon Yorimoto, juxtaposed with a poem by Kiichi Hogen, from the series _Mitate sanju-rokkasen no uchi_ (Comparisons with the Thirty-six Immortals of Poetry).
 
 Published by Iseya Kanekichi. After the success of the similar series with views of the [Tokaido](/exhibition/group-1) published in early 1852, Kunisada designed several other sets with landscape backgrounds. Dainagon Yorimoto was one of the thirty-six 'Immortal' poets first selected and listed by the 11th-century poet and critic, Fujiwara no Kinto.
 

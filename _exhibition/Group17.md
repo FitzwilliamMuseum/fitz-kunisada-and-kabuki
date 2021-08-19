@@ -31,4 +31,4 @@ group: "Group 17"
 
 {% include texts/text504t.md %}
 
-[Learn more about surimono](/theme/ichikawa-danjuro-VIII){: .btn .btn-dark .d-block }
+[Learn more about surimono](/themes/ichikawa-danjuro-VIII){: .btn .btn-dark .d-block }
