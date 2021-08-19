@@ -39,56 +39,42 @@
 integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-
-<link href="{{site.baseurl}}/css/site.css" rel="stylesheet" media="screen">
-
 <link rel="icon" href="{{site.baseurl}}/favicon.ico"/>
+<style>
+body {
+  color: white;
+}
+.opacity-2 {
+  opacity: 0.7;
+}
+.image-background {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url("/images/prints/japanese_theatre_interior_high_res.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+</style>
 
-
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin="" type="text/css">
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-]
 
 </head>
 <body class="doc-body">
 
-    <!-- Screen reader skip to main -->
-    <a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
-      <div class="container">
-        <span class="doc-skip-text">Skip to main content</span>
-      </div>
-    </a>
-
-    <!-- Nav bars -->
-    {% include /structure/navigation.html %}
-
-
-    <div class="container-fluid bg-white text-black text-center">
-      <div class="p-3 mt-5">
-        <h1 class="shout lead" id="doc-main-h1">{{page.title}}</h1>
+  <div class="image-background">
+  <div class="container h-100">
+    <div class="row h-100 align-items-center">
+      <div class="col-12 text-center bg-dark opacity-2 p-3">
+        <h1 class="display-2"><a href="/about" class="text-white">{{page.title}}</a></h1>
+        <p class="lead text-white">{{page.strap}}</p>
       </div>
     </div>
-    {% include /structure/archived.html %}
-
-    {% include /structure/breadcrumbs.html %}
-
-    <div class="container">
-      {% if page.url == "/explore/" %}
-        {{ content }}
-      {% elsif page.url == "/objects/" %}
-        {{ content }}
-      {% else %}
-      <div class="col-12 shadow-sm p-3 mx-auto mb-3 mt-3 ">
-        {{ content }}
-      </div>
-      {% endif %}
-    </div>
-    <!-- Footer logos -->
-    {% include structure/footer_logos.html %}
-    {% include structure/footer.html %}
+  </div>
+</div>
 
         <!-- JavaScript -->
         <!-- JS, Popper.js, and jQuery -->
