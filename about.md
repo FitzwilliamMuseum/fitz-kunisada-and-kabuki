@@ -1,8 +1,9 @@
 ---
 layout: about
-title: 'Introducing Kunisda and Kabuki'
+title: "Introducing Kunisda and Kabuki"
 permalink: '/about/'
 ---
+
 ### Kunisada
 
 ![](/images/prints/p.480-1937.jpg)
