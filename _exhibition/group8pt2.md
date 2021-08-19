@@ -9,4 +9,15 @@ group: "Group 8, Part 2"
 ---
 ![Kunisada Image](/images/prints/p.69-1999.jpg){: .img-fluid }
 
-[More Info](/context/textE)
+{% include texts/textp69.md %}
+
+![Kunisada Image](/images/prints/p.58-1999.jpg){: .img-fluid }
+
+{% include texts/kunp58.md %}
+
+[![Kunisada Image](/images/prints/p.67-1999.jpg){: .img-fluid }
+
+{% include texts/textp67.md %}
+
+
+[Learn more about the printsof Danjuro VII](/context/textE){: .btn .btn-dark .d-block}
