@@ -1,15 +1,15 @@
 ---
 permalink: /themes/fan-prints-one
-title: Fan prints
+title: "Fan prints: examples"
 layout: default
 order: f
 image: /images/prints/kunisada_loan_405.jpg
 ---
-![fan print](/images/prints/textf.1.jpg)
+![fan print](/images/prints/kunisada_loan_405.jpg)
 
 {% include texts/kun405.md %}
 
-![fan print](/images/prints/textf.2.jpg)
+![fan print](/images/prints/kunisada_loan_406.jpg)
 
 {% include texts/kun406.md %}
 
