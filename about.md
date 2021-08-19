@@ -1,7 +1,7 @@
 ---
 layout: about
 title: 'Introducing Kunisda and Kabuki'
-permalink: '/about'
+permalink: '/about/'
 ---
 ### Kunisada
 
