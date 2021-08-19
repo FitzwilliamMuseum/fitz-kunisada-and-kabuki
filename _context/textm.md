@@ -2,7 +2,7 @@
 order: m
 layout: default
 title: "Onoe Kikugoro III"
-permalink: /context/textM
+permalink: /theme/onoe-kikugoro-iii
 image: /images/prints/p.491-1937.jpg
 theme: Actor
 ---

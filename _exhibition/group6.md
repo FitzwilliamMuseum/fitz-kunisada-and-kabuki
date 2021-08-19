@@ -33,7 +33,7 @@ From the set An Imagined Confrontation of the Three Theatres (_San shibai mitate
 
 Private collection
 
-[You can read a more detailed description as part of this text.](/context/textF)
+[You can read a more detailed description as part of this text.](/theme/fan-prints-one)
 
 ![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_479.jpg){: .img-fluid }
 

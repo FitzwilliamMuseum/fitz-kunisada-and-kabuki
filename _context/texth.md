@@ -1,5 +1,5 @@
 ---
-permalink: /context/textH
+permalink: /theme/how-to-read-an-actor-print
 title: How to read an actor print 
 layout: default
 order: h

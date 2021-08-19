@@ -1,7 +1,7 @@
 ---
 title: Nakamura Shikan IV
 layout: default
-permalink: /context/textT
+permalink: /theme/nakamura-shikan-IV
 order: t
 image: /images/prints/p.81-1999.jpg
 ---

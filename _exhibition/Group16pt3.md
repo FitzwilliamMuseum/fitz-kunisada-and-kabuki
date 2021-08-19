@@ -39,4 +39,4 @@ group: Group 16 part 3
 
 {% include texts/text508.md %}
 
-[Learn more about Onoe Kikugoro III](/context/textM){: .btn .btn-dark .d-block}
+[Learn more about Onoe Kikugoro III](/theme/onoe-kikugoro-iii){: .btn .btn-dark .d-block}

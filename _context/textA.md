@@ -1,5 +1,5 @@
 ---
-permalink: /context/textA
+permalink: /theme/saruwaka-street
 title: Saruwaka Street
 layout: default
 order: a

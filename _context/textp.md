@@ -2,7 +2,7 @@
 order: p
 title: Surimono and special printing effects
 layout: default
-permalink: /context/textP
+permalink: /theme/surimono-and-special-printing-effects
 image: /images/prints/p.491-1937.jpg
 ---
 

@@ -12,6 +12,6 @@ Given by the Friends of the Fitzwilliam with
 
 the aid of the MGC Purchase Grant Fund and the National Art Collections Fund.
 
-A portrait of [Ichikawa](/exhibition/group-12)  [Danjuro VIII](/context/textN) as [Kagekiyo,](/exhibition/group-14) with a view of Miya on the [Tokaido Highway](/exhibition/group-1) in the background, from the series _Tokaido gojusan tsugi no uchi_ (Fifty-three stations of the Tokaido Highway).
+A portrait of [Ichikawa](/exhibition/group-12)  [Danjuro VIII](/theme/ichikawa-danjuro-VIII) as [Kagekiyo,](/exhibition/group-14) with a view of Miya on the [Tokaido Highway](/exhibition/group-1) in the background, from the series _Tokaido gojusan tsugi no uchi_ (Fifty-three stations of the Tokaido Highway).
 
 [For a more detailed description](../textp60.htm)

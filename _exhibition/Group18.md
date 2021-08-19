@@ -31,4 +31,4 @@ group: "Group 18"
 
 {% include texts/textp91.md %}
 
-[Learn more about Prints of Danjuro IX](/context/textO){: .btn .btn-dark .d-block }
+[Learn more about Prints of Danjuro IX](/theme/ichikawa-danjuro-IX){: .btn .btn-dark .d-block }

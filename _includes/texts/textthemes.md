@@ -45,4 +45,4 @@ Choose an Actor
 
  ![](bd10265_1.gif) [Actors at Leisure  
 
-](/exhibition/group-9) ![](bd10265_1.gif) [How to Read an Actor Print](/context/textH)**
+](/exhibition/group-9) ![](bd10265_1.gif) [How to Read an Actor Print](/theme/how-to-read-an-actor-print)**

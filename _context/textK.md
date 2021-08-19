@@ -1,6 +1,6 @@
 ---
 title: "The reuse of printing blocks"
-permalink: "/context/textK"
+permalink: "/theme/the-reuse-of-printing-blocks"
 layout: default
 image: /images/prints/kunisada_loan_s220.jpg
 order: k

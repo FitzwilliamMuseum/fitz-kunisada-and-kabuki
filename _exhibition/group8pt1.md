@@ -15,11 +15,11 @@ This print was issued commercially in the autumn of 1831. It is laden with visua
 #### Inscriptions and marks
 {: .text-success}
 
-*   The largest characters inscribed at the top right of the print name the actor depicted: [Ichikawa Danjuro VII,](/context/textE) one of the great exponents of heroic roles and the most popular of all nineteenth-century actors.*   To the right of his name in much smaller characters is the name of the role in which he is depicted: that of Matsuomaru, one of the heroes in the popular historical drama _[Sugawara and the Secrets of Calligraphy.](/exhibition/group-3)_ He performed the role in a revival of the drama that opened at the Kawarazaki Theatre in Edo in 09.1831.
+*   The largest characters inscribed at the top right of the print name the actor depicted: [Ichikawa Danjuro VII,](/theme/textE) one of the great exponents of heroic roles and the most popular of all nineteenth-century actors.*   To the right of his name in much smaller characters is the name of the role in which he is depicted: that of Matsuomaru, one of the heroes in the popular historical drama _[Sugawara and the Secrets of Calligraphy.](/exhibition/group-3)_ He performed the role in a revival of the drama that opened at the Kawarazaki Theatre in Edo in 09.1831.
 *   The two lines of cursive script to the left of the actors name remind the viewer of two other heroic roles that Danjuro had performed that season: Hyogonosuke in _Yaguchi Ferry Crossing_ and Kumagae Naozane in _Chronicle of the Battle of Ichinotani_ in performances at the Kawarazaki Theatre in the fifth and seventh month of 1831 respectively.
 *   The artists signature, _Kunisada ga_ (drawn by Kunisada), appears on the left edge of the print, written in characters of modest size and followed by the red circular _toshidama_ seal used by artists of the Utagawa school.
 *   The signature is balanced on the right edge of the print by the censors seal and publishers mark, which are placed just below Danjuros name. The publisher Sanoya Kihei issued many of Kunisadas actor prints in the late 1820s and the 1830s.
-*   Above Danjuros head there is a poem of his own composition printed from a block that reproduces his own cursive script. It is signed and sealed the seventh generation [Sansho](/context/textD) (Sansho is the [poetry name](/context/textD) used by bearers of the Danjuro stage name.) The poem with its dense word play and multiple levels of meaning would have teased and delighted Danjuros fans, many of whom would also have been amateur poets. Only a few of the puns and allusions can be hinted at here.
+*   Above Danjuros head there is a poem of his own composition printed from a block that reproduces his own cursive script. It is signed and sealed the seventh generation [Sansho](/theme/actors-names-and-crests) (Sansho is the [poetry name](/theme/actors-names-and-crests) used by bearers of the Danjuro stage name.) The poem with its dense word play and multiple levels of meaning would have teased and delighted Danjuros fans, many of whom would also have been amateur poets. Only a few of the puns and allusions can be hinted at here.
 
 > Migawari mo  
 kore de sando ya  
@@ -58,11 +58,11 @@ This pair of portraits commemorates a revival (with a different name) of the pla
 
 His rival Nagoya Sanza carries a sword named 'Amorous Swallows' and wears a kimono with a 'swallows-in-the-rain' pattern tied with a sash of knitted rope. Unaware of each other, they make simultaneous entrances boasting of their fame, along the two raised passageways (_hanamichi_) that run through the audience to the main stage. As they pass on the main stage, which represents Nakano Street in the Yoshiwara pleasure district at cherry blossom time, their sword hilts clash. They exchange insults, remove their green sedge travelling-hats, recognize one another and draw swords to fight over the courtesan Katsuragi, whom they both love.
 
-Above the actors' heads are _hokku_ poems (_haiku_) written by the actors themselves. Danjuro's poem is signed with his [poetry name _Hakuen_.](/context/textD) It alludes to his repeated appearances in this role and to the lightning-in-the-clouds pattern on his robe, as well as to the date of this performance in the ninth month.
+Above the actors' heads are _hokku_ poems (_haiku_) written by the actors themselves. Danjuro's poem is signed with his [poetry name _Hakuen_.](/theme/actors-names-and-crests) It alludes to his repeated appearances in this role and to the lightning-in-the-clouds pattern on his robe, as well as to the date of this performance in the ninth month.
 
 Bolts of lightning _Inazuma mo_ appear countless times _kazu o kasanete_ in the ninth month! _kugatsu_ _kana._
 
-Kikugoro's poem is signed with his [poetry name _Baiko_.](/context/textD) As well as alluding to the swallows-in the-rain pattern on his robes, the poem suggests a comparison between the action in this scene when the actors pass each other on stage, and geese and swallows flying past each other as one arrives and the other departs in the autumn, the season of this performance:
+Kikugoro's poem is signed with his [poetry name _Baiko_.](/theme/actors-names-and-crests) As well as alluding to the swallows-in the-rain pattern on his robes, the poem suggests a comparison between the action in this scene when the actors pass each other on stage, and geese and swallows flying past each other as one arrives and the other departs in the autumn, the season of this performance:
 
 Passing by each other _Yuki-chigau_ wild geese and swallows _kari ni tsubame ya_ over ripened pampas grass. _hanasusuki._
 
@@ -90,4 +90,4 @@ Passing by each other _Yuki-chigau_ wild geese and swallows _kari ni tsubame ya_
 
 {% include texts/kun405.md %}
 
-[Learn more about Danjuro VII](/context/textE){: .btn .btn-dark .d-block }
+[Learn more about Danjuro VII](/theme/textE){: .btn .btn-dark .d-block }

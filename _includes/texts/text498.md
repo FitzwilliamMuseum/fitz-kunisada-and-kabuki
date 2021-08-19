@@ -1,10 +1,10 @@
-**[Iwai](/exhibition/group-19) Kumesaburo II as Oiso no Tora bringing food to Soga no Juro, played by [Onoe](/exhibition/group-16-part-1) [Kikugoro III](/context/textM)**
+**[Iwai](/exhibition/group-19) Kumesaburo II as Oiso no Tora bringing food to Soga no Juro, played by [Onoe](/exhibition/group-16-part-1) [Kikugoro III](/theme/onoe-kikugoro-iii)**
 
 
 c. 1818-20
 
 Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937
 
-From a set of five [surimono](/context/textP) commissioned for the Hisakataya poetry group whose emblem, a stylised _koto_ bridge, surmounts the red inscription: _Goban-tsusuki_ (from a set of five). The printer's seal of _Ryusai_ _Chimata_ (Ino Naojiro) also appears on the print. The set depicts characters from the cycle of plays telling of the [revenge of the two Soga brothers](/exhibition/group-6), Soga no Juro and Soga no Goro, on their father's murderer Kudo Suketsune.
+From a set of five [surimono](/theme/surimono-and-special-printing-effects) commissioned for the Hisakataya poetry group whose emblem, a stylised _koto_ bridge, surmounts the red inscription: _Goban-tsusuki_ (from a set of five). The printer's seal of _Ryusai_ _Chimata_ (Ino Naojiro) also appears on the print. The set depicts characters from the cycle of plays telling of the [revenge of the two Soga brothers](/exhibition/group-6), Soga no Juro and Soga no Goro, on their father's murderer Kudo Suketsune.
 
 The _Iori-mokko_ motif (a magnolia within a stylised hut) associated with Kudo Suketsune decorates the curtain looped across the top of all five prints in the series. It also occurs on the curtain on the _Shimadai_ (island tray) decoration held by Oiso no Tora in this print. The motif alludes to Suketsune's hunting lodge at Susono below Mount Fuji, where he was finally murdered by the Soga brothers. Soga no Juro's costume bears the pattern of flying-plovers (_chidori_) that was traditionally associated with him, while his sleeve is decorated with the _Yamagata-mokko_ motif of Soga. His mistress Tora's costume is decorated with a Soga butterfly motif, which was also associated with the actor Kumesaburo

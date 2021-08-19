@@ -45,4 +45,4 @@ The impetuous Yoshibei and the gentle Chokichi are strongly contrasted in these 
 
 {% include texts/textp70.md %}
 
-[To learn more about Nakamura Shikan II (Utaemon IV)](/context/textS){: .btn .btn-dark .d-block }
+[To learn more about Nakamura Shikan II (Utaemon IV)](/theme/nakamura-shikan-II){: .btn .btn-dark .d-block }

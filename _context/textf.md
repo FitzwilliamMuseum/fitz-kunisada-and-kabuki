@@ -1,5 +1,5 @@
 ---
-permalink: /context/textF
+permalink: /theme/fan-prints-one
 title: Fan prints
 layout: default
 order: f

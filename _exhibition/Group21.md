@@ -27,4 +27,4 @@ group: "Group 21"
 
 {% include texts/textp85.md %}
 
-[To learn more about the Prints of Nakamura Shikan IV](/context/textT){: .btn .btn-dark .d-block}
+[To learn more about the Prints of Nakamura Shikan IV](/theme/nakamura-shikan-II){: .btn .btn-dark .d-block}
