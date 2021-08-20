@@ -6,11 +6,11 @@ image: /images/thumbnails/kunisada_loan_s220.jpg
 order: k
 ---
 
-![Reused blocks]({{site.baseurl}}/images/prints/kunisada_loan_s220.jpg){: .img-fluid }
+![Reused blocks]({{site.baseurl}}/images/prints/kunisada_loan_220.jpg){: .img-fluid }
 
 {%include texts/knu220.md %}
 
-![Original blocks]({{site.baseurl}}/images/prints/kunisada_loan_s171.jpg){: .img-fluid }
+![Original blocks]({{site.baseurl}}/images/prints/kunisada_loan_171.jpg){: .img-fluid }
 
 {%include texts/kun171.md %}
 
