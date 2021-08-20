@@ -13,7 +13,7 @@ image: /images/thumbnails/kunisada_loan_405.jpg
 
 {% include texts/kun406.md %}
 
-**Ichikawa [Danjuro VII](/exhibition/group-8-part-1) as Sukeroku (left) and [Segawa Kikunojo V](/exhibition/group-7) as Agemaki (right) in _[Sukeroku yukari no Edo zakura](Group5.htm)_ (Sukeroku's affinity for the cherry blossoms of Edo) performed at the Tamagawa Theatre in 1819**  
+**Ichikawa [Danjuro VII](/exhibition/group-8-part-1) as Sukeroku (left) and [Segawa Kikunojo V](/exhibition/group-7) as Agemaki (right) in _[Sukeroku yukari no Edo zakura](/exhibition/group-5)_ (Sukeroku's affinity for the cherry blossoms of Edo) performed at the Tamagawa Theatre in 1819**  
 
 Private collection
 

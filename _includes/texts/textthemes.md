@@ -21,7 +21,7 @@ Choose a Play or Scene
 >
 > ![](bd10265_1.gif) [Sugawara and the secrets of Calligraphy](/exhibition/group-3)
 >
-> ![](bd10265_1.gif) [Sukeroku](Group5.htm)_ **
+> ![](bd10265_1.gif) [Sukeroku](/exhibition/group-5)_ **
 
 Choose an Actor
 
