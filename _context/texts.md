@@ -3,7 +3,7 @@ permalink: /themes/nakamura-shikan-II
 layout: default
 title: "Nakamura Shikan II (Utaemon IV)"
 order: s
-image:/images/thumbnails/kunisada_loan_228.jpg
+image: /images/thumbnails/kunisada_loan_228.jpg
 ---
 
 ## [Nakamura Shikan II (Utaemon IV)](/exhibition/group-20)
