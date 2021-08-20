@@ -76,6 +76,7 @@ Collections Record: [P.505-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182
 {% include texts/kunp514.md %}
 
 Collections Record: [P.514-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182379)
+
 ----
 
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.507-1937.jpg){: .img-fluid }

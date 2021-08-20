@@ -10,17 +10,25 @@ group: "Group 16, Part 1"
 
 {% include texts/knu220.md %}
 
+----
+
 ![Kunisada Image](/images/prints/kunisada_loan_291.jpg){: .img-fluid }
 
 {% include texts/text291.md %}
+
+----
 
 ![Kunisada Image](/images/prints/kunisada_loan_290.jpg){: .img-fluid }
 
 {% include texts/kun290.md %}
 
+----
+
 ![Kunisada Image](/images/prints/kunisada_loan_556.jpg){: .img-fluid }
 
 {% include texts/kun556.md %}
+
+----
 
 ![Kunisada Image](/images/prints/p.55-1999.jpg){: .img-fluid }
 
@@ -28,14 +36,20 @@ group: "Group 16, Part 1"
 
 Collections Record: P.55-1999
 
+----
+
 ![Kunisada Image](/images/prints/kunisada_loan_565.jpg){: .img-fluid }
 
 {% include texts/kun565.md %})
+
+----
 
 ![Kunisada Image](/images/prints/p.71-1999.jpg){: .img-fluid }
 
 {% include texts/textp71.md %}
 
-Collections Record: P.71-1999
+Collections Record: [P.71-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9464)
+
+----
 
 [Learn more about Onoe Kikugoro III](/themes/onoe-kikugoro-iii){: .btn .btn-dark .d-block }

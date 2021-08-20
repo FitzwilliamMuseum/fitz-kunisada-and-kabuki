@@ -20,7 +20,9 @@ This print commemorates the first performance of this _kizewamono_ (raw domestic
 
 This is from a luxury edition on thick paper with special printing effects, including blind embossing (_karazuri_), textile embossing (_nunome-zuri_) on the neckerchief and burnishing (_tsuya-zuri_) on the black. The seal of the leading block-carver Yokokawa Takejiro appears on the print.
 
-Collections Record: P.78-1999
+Collections Record: [P.78-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9471)
+
+----
 
 ![Kunisada Image](/images/prints/p.79-1999.jpg){: .img-fluid }
 
@@ -37,7 +39,9 @@ Kajiwara Kagetoki was a 12th-century warrior who deserted the Heike clan to join
 
 In contrast to the [other prints](KUN/kunp78.htm) included in this exhibition, this example is not from a luxury edition; it is printed with cheaper colours on thinner paper, without special additional printing effects such as embossing and burnishing. No block-carver's seal appears on the print.
 
-Collections Record: P.79-1999
+Collections Record: [P.79-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9472)
+
+----
 
 ![Kunisada Image](/images/prints/p.80-1999.jpg){: .img-fluid }
 
@@ -54,7 +58,9 @@ This play was one of several kabuki versions of the puppet play by Chikamatsu Mo
 
 The printing includes burnishing (_tsyra-zuri_) on the black. The seal of the leading block-carver Yokokawa Takejiro appears on the print.
 
-Collections Record: P.80-1999
+Collections Record: [P.80-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9473)
+
+----
 
 ![Kunisada Image](/images/prints/p.81-1999.jpg){: .img-fluid }
 
@@ -69,7 +75,9 @@ This print of 'bamboo-tugging Goro' illustrates the scene in this Spring play (_
 
 The printing includes burnishing (_tsuya-zuri_) on the black. The seal of the leading block-carver Yokokawa Takejiro appears on the print.
 
-Collections Record: P.81-1999
+Collections Record: [P.81-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9474)
+
+----
 
 ![Kunisada Image](/images/prints/p.82-1999.jpg){: .img-fluid }
 
@@ -86,7 +94,9 @@ In 1865 he became ill with gangrene, and two years later his hand and foot were 
 
 The printing here includes blind embossing (_karazuri_), textile embossing (_nunome-zuri_) in the background of the floral garment, burnishing (_tsuya-zuri_) on the black part of the mirror, and mica on the blue hair ornament. The seal of the block-carver Yokokawa Takejiro appears on the print.
 
-Collections Record: P.82-1999
+Collections Record: [P.82-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9475)
+
+----
 
 ![Kunisada Image](/images/prints/p.83-1999.jpg){: .img-fluid }
 
@@ -103,12 +113,15 @@ The act entitled _Tomo yakko_ was a _Yakko mono_ ('footman play') that originall
 
 The printing includes blind embossing (_karazuri_) and burnishing (_tsuya-zuri_) on the black. The seal of the leading block-carver Yokokawa Takejiro appears on the print.
 
-Collections Record: P.83-1999
+Collections Record: [P.83-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9476)
+
+----
 
 ![Kunisada Image](/images/prints/p.489-1937_detail.jpg){: .img-fluid }
 
-#### **Flower**circa 1823-5  
-{: .display-5 .text-info }
+**Flower**{:.text-info }
+
+circa 1823-5  
 
 Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937
 
@@ -118,7 +131,9 @@ This is the 'Flower' print from a series of [surimono](/themes/surimono-and-spec
 like dishevelled hair it is impossible to fix -  
 the dawn in spring is so enchanting and impossible to describe._
 
-Collections Record: P.489-1937
+Collections Record: [P.489-1937](https://data.fitzmuseum.cam.ac.uk/id/object/166026)
+
+----
 
 ![Kunisada Image](/images/prints/p.516-1937.jpg){: .img-fluid }
 
@@ -131,7 +146,9 @@ Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937
 
 Fragment of a much larger [surimono]({{site.baseurl}}/themes/surimono-and-special-printing-effects) made for the Go poetry group, with a text of poems praising the actor, and the image of a peony (one of the Ichikawa family symbols) designed by Totoya Hokkei (1780-1850). The complete print bears Kunisadas seal reading _Kunisada aratame ni-sei Toyokuni no in_ ([Seal of Kunisada changing to Toyokuni II](/themes/textC)), which records his adoption of his master Toyokunis name in New Year 1844. The print was probably designed in 1849, when his son [Danjuro VIII](/exhibition/group-12) went to visit his father Ichikawa Ebizo V (formerly Danjuro VII) in exile in Osaka. Danjuro VII had been banished from Edo by the government (_bakufu_) in 1842 in punishment for his luxurious lifestyle as part of the Tempo reforms. The print shows Danjuro VII in one of his most famous roles, which was depicted many times in prints with the characteristic lightning-in-the-clouds pattern on Fuwa Banzaemons costume. The device of portraying an actor reflected in a mirror was used by Kunisada many times.
 
-Collections Record: P.516-1937
+Collections Record: [P.516-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182381)
+
+----
 
 ![Kunisada Loan](/images/prints/kunisada_loan_379.jpg){: .img-fluid }
 
