@@ -11,7 +11,7 @@ group: Group 16 part 3
 
 {% include texts/kunp475.md %}
 
-Collections Record: P.475-1937
+Collections Record: [P.475-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182354)
 
 ----
 
@@ -19,7 +19,7 @@ Collections Record: P.475-1937
 
 {% include texts/kunpt362.md %}
 
-Collections Record: P.62-1938
+Collections Record: [P.62-1938](https://data.fitzmuseum.cam.ac.uk/id/object/182388)
 
 ----
 
@@ -27,7 +27,7 @@ Collections Record: P.62-1938
 
 {% include texts/kunp479.md %}
 
-Collections Record: P.479-1937
+Collections Record: [P.479-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182358)
 
 ----
 
@@ -35,7 +35,7 @@ Collections Record: P.479-1937
 
 {% include texts/text491.md %}
 
-Collections Record: P.491-1937
+Collections Record: [P.491-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182366)
 
 ----
 
@@ -43,7 +43,7 @@ Collections Record: P.491-1937
 
 {% include texts/text496.md %}
 
-Collections Record: P.496-1937
+Collections Record: [P.496-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182369)
 
 ----
 
@@ -51,7 +51,7 @@ Collections Record: P.496-1937
 
 {% include texts/kunp502.md %}
 
-Collections Record: P.502-1937
+Collections Record: [P.502-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182372)
 
 ----
 
@@ -59,7 +59,7 @@ Collections Record: P.502-1937
 
 {% include texts/kunp515.md %}
 
-Collections Record: P.515-1937
+Collections Record: [P.515-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182380)
 
 ----
 
@@ -67,7 +67,7 @@ Collections Record: P.515-1937
 
 {% include texts/text508.md %}
 
-Collections Record: P.508-1937
+Collections Record: [P.508-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182377)
 
 ----
 

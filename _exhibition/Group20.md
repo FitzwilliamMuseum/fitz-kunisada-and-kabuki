@@ -11,13 +11,19 @@ group: "Group 20"
 
 {% include texts/kun228.md %}
 
+----
+
 ![Kunisada Loan ](/images/prints/kunisada_loan_206.jpg){: .img-fluid }
 
 {% include texts/text206.md %}
 
+-----
+
 ![Kunisada Loan ](/images/prints/kunisada_loan_273.jpg){: .img-fluid }
 
 {% include texts/kun273.md %}
+
+----
 
 ![Kunisada Loan ](/images/prints/kunisada_loan_311.jpg){: .img-fluid }
 
@@ -29,28 +35,38 @@ Yoshibei does not realise that he has killed the younger brother of his wife Kou
 
 The impetuous Yoshibei and the gentle Chokichi are strongly contrasted in these prints. Each can stand by itself, but when they are paired they make a very effective diptych.
 
+----
+
 ![Kunisada Image](/images/prints/p.57-1999.jpg){: .img-fluid }
 
 {% include texts/kunp57.md %}
 
-Collections Record: P.57-1999
+Collections Record: [P.57-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9449)
+
+----
 
 ![Kunisada Image](/images/prints/p.58-1999.jpg){: .img-fluid }
 
 {% include texts/kunp58.md %}
 
-Collections Record: P.58-1999
+Collections Record: [P.58-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9450)
+
+-----
 
 ![Kunisada Image](/images/prints/p.59-1999.jpg){: .img-fluid }
 
 {% include texts/textp59.md %}
 
-Collections Record: P.59-1999
+Collections Record: [P.59-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9451)
+
+-----
 
 ![Kunisada Image](/images/prints/p.70-1999.jpg){: .img-fluid }
 
 {% include texts/textp70.md %}
 
-Collections Record: P.70-1999
+Collections Record: [P.70-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9463)
+
+----
 
 [To learn more about Nakamura Shikan II (Utaemon IV)](/themes/nakamura-shikan-II){: .btn .btn-dark .d-block }
