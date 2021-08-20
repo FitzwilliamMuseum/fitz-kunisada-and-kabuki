@@ -11,10 +11,16 @@ group: "Group 22"
 
 {% include texts/textp63.md %}
 
+Collections Record: P.63-1999
+
 ![Kunisada Image](/images/prints/p.64-1999.jpg){: .img-fluid }
 
 {% include texts/textp64.md %}
 
+Collections Record: P.64-1999
+
 ![Kunisada Image](/images/prints/p.65-1999.jpg){: .img-fluid }
 
 {% include texts/textp65.md %}
+
+Collections Record: P.65-1999

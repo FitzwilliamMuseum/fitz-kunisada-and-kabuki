@@ -23,24 +23,36 @@ group: "Group 19"
 
 {% include texts/text490.md %}
 
+Collections Record: P.490-1937
+
 ![Kunisada Image](/images/prints/p.478-1937.jpg){: .img-fluid }
 
 {% include texts/kunp478.md %}
+
+Collections Record: P.478-1937
 
 ![Kunisada Image](/images/prints/p.495-1937.jpg){: .img-fluid }
 
 {% include texts/text495.md %}
 
+Collections Record: P.495-1937
+
 ![Kunisada Image](/images/prints/p.498-1937.jpg){: .img-fluid }
 
 {% include texts/text498.md %}
+
+Collections Record: P.498-1937
 
 ![Kunisada Image](/images/prints/p.501-1937.jpg){: .img-fluid }
 
 {% include texts/kunp501.md %}
 
+Collections Record: P.501-1937
+
 ![Kunisada Image](/images/prints/p.61-1938.jpg){: .img-fluid }
 
 {% include texts/kunpt361.md %}
 
-(textQ.htm)
+Collections Record: P.61-1937
+
+[Learn more about Iwai Kumesaburo II](/themes/iwai-kumesaburo-ii){: .btn .btn-dark .d-bloclk}

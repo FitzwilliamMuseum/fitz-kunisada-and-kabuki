@@ -10,16 +10,16 @@ group: "Group 23"
 
 {% include texts/textp65.md %}
 
-P.65-1999
+Collections Record: [P.65-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9458)
 
 ![Kunisada Image](/images/prints/p.68-1999.jpg){: .img-fluid }
 
 {% include texts/textp68.md %}
 
-P.68-1999
+Collections Record: [P.68-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9461)
 
 ![Kunisada Image](/images/prints/p.67-1999.jpg){: .img-fluid }
 
 {% include texts/textp67.md %}
 
-P.67-1999
+Collections Record: [P.67-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9460)

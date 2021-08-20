@@ -10,6 +10,10 @@ group: "Group 15"
 
 {% include texts/textp76.md %}
 
+Collections Record: P.76-1999
+
 ![Kunisada Image](/images/prints/p.504-1937.jpg){: .img-fluid }
 
 {% include texts/text504t.md %}
+
+Collections Record: P.504-1937

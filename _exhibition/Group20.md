@@ -33,16 +33,24 @@ The impetuous Yoshibei and the gentle Chokichi are strongly contrasted in these 
 
 {% include texts/kunp57.md %}
 
+Collections Record: P.57-1999
+
 ![Kunisada Image](/images/prints/p.58-1999.jpg){: .img-fluid }
 
 {% include texts/kunp58.md %}
+
+Collections Record: P.58-1999
 
 ![Kunisada Image](/images/prints/p.59-1999.jpg){: .img-fluid }
 
 {% include texts/textp59.md %}
 
+Collections Record: P.59-1999
+
 ![Kunisada Image](/images/prints/p.70-1999.jpg){: .img-fluid }
 
 {% include texts/textp70.md %}
+
+Collections Record: P.70-1999
 
 [To learn more about Nakamura Shikan II (Utaemon IV)](/themes/nakamura-shikan-II){: .btn .btn-dark .d-block }

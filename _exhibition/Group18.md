@@ -11,24 +11,36 @@ group: "Group 18"
 
 {% include texts/kunp74.md %}
 
+Collections Record: P.74-1999
+
 ![Kunisada Image](/images/prints/p.86-1999.jpg){: .img-fluid }
 
 {% include texts/textp86.md %}
+
+Collections Record: P.86-1999
 
 ![Kunisada Image](/images/prints/p.76-1999.jpg){: .img-fluid }
 
 {% include texts/textp76.md %}
 
+Collections Record: P.76-1999
+
 ![Kunisada Image](/images/prints/p.87-1999.jpg){: .img-fluid }
 
 {% include texts/textp87.md %}
+
+Collections Record: P.87-1999
 
 ![Kunisada Image](/images/prints/p.89-1999.jpg){: .img-fluid }
 
 {% include texts/textp89.md %}
 
+Collections Record: P.89-1999
+
 ![Kunisada Image](/images/prints/p.91-1999.jpg){: .img-fluid }
 
 {% include texts/textp91.md %}
+
+Collections Record: P.91-1999
 
 [Learn more about Prints of Danjuro IX](/themes/ichikawa-danjuro-IX){: .btn .btn-dark .d-block }

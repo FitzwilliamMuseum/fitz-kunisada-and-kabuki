@@ -43,30 +43,46 @@ Private collection
 
 {% include texts/kunp61.md %}
 
+Collections Record: P.61-1999
+
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.81-1999.jpg){: .img-fluid }
 
 {% include  texts/kunp81.md %}
+
+Collections Record: P.81-1999
 
 ![P.498-1937.jpg (56475 bytes)]({{site.baseurl}}/images/prints/p.498-1937.jpg){: .img-fluid }
 
 {% include  texts/kun498.md %}
 
+Collections Record: P.498-1937
+
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.502-1937.jpg){: .img-fluid }
 
 {% include  texts/kunp502.md %}
+
+Collections Record: P.502-1937
 
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.501-1937.jpg){: .img-fluid }
 
 {% include  texts/kunp501.md %}
 
+Collections Record: P.501-1937
+
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.503-1937.jpg){: .img-fluid }
 
 {% include  texts/text503.md %}
+
+Collections Record: P.503-1937
 
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.113-1994.jpg){: .img-fluid }
 
 {% include  texts/kun113.md %}
 
+Collections Record: P.113-1994
+
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.493-1937.jpg){: .img-fluid }
 
 {% include  texts/kunp493.md %}
+
+Collections Record: P.493-1937

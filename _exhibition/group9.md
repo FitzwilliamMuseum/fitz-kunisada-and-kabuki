@@ -24,14 +24,22 @@ group: "Group 9"
 
 {% include texts/kunpt36162.md %}
 
+Collections Record: P.62-1938
+
 ![Kunisada Image](/images/prints/p.491-1937.jpg){: .img-fluid }
 
 {% include texts/text491.md %}
+
+Collections Record: P.491-1937
 
 ![Kunisada Image](/images/prints/p.57-1999.jpg){: .img-fluid }
 
 {% include texts/kunp57.md %}
 
+Collections Record: P.57-1999
+
 ![Kunisada Image](/images/prints/p.496-1937.jpg){: .img-fluid }
 
 {% include texts/text496.md %}
+
+Collections Record: P.496-1937

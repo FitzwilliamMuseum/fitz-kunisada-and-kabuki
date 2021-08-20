@@ -26,6 +26,8 @@ group: "Group 16, Part 1"
 
 {% include texts/textp55.md %}
 
+Collections Record: P.55-1999
+
 ![Kunisada Image](/images/prints/kunisada_loan_565.jpg){: .img-fluid }
 
 {% include texts/kun565.md %})
@@ -33,5 +35,7 @@ group: "Group 16, Part 1"
 ![Kunisada Image](/images/prints/p.71-1999.jpg){: .img-fluid }
 
 {% include texts/textp71.md %}
+
+Collections Record: P.71-1999
 
 [Learn more about Onoe Kikugoro III](/themes/onoe-kikugoro-iii){: .btn .btn-dark .d-block }

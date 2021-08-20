@@ -14,3 +14,5 @@ group: "Group 13"
 ![Kunisada Image](/images/prints/p.87-1999.jpg){: .img-fluid }
 
 {% include texts/textp87.md %}
+
+Collections Record: P.87-1999

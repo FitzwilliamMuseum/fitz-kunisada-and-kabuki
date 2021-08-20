@@ -20,8 +20,12 @@ group: Group 5
 
 {% include texts/kunp502.md %}
 
+Collections Record: P.502-1937
+
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.501-1937.jpg){: .img-fluid }
 
 {% include texts/kunp501.md %}
+
+Collections Record: P.501-1937
 
 {% include texts/thraatere.md %}

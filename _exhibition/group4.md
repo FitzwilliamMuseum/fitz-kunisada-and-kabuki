@@ -35,6 +35,8 @@ It seems that Danjuro VII was only recruited for this performance after a fire p
 
 {% include texts/textp514515.md %}
 
+Collections Record: P.515-1937
+
 ![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_290.jpg){: .img-fluid }
 
 {% include texts/lightningbolts.md %}
@@ -42,6 +44,8 @@ It seems that Danjuro VII was only recruited for this performance after a fire p
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.516-1937.jpg){: .img-fluid }
 
 {% include texts/text516.md %}
+
+Collections Record: P.516-1937
 
 ![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_252.jpg){: .img-fluid }
 

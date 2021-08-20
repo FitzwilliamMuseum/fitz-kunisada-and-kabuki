@@ -11,14 +11,22 @@ group: "Group 14"
 
 {% include texts/textp60.md %}
 
+Collections Record: P.60-1999
+
 ![Kunisada Image](/images/prints/p.477-1937.jpg){: .img-fluid }
 
 {% include texts/text476477.md %}
+
+Collections Record: P.477-1937
 
 ![Kunisada Image](/images/prints/p.483-1937.jpg){: .img-fluid }
 
 {% include texts/text483.md %}
 
+Collections Record: P.483-1937
+
 ![Kunisada Image](/images/prints/p.493-1937.jpg){: .img-fluid }
 
 {% include texts/text493.md %}
+
+Collections Record: P.493-1937

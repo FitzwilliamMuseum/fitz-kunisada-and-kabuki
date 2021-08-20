@@ -47,24 +47,24 @@ group: Group 7
 
 {% include texts/kunp68.md %}
 
-P.68-1999
+Collections Record: P.68-1999
 
 ![Kunisada Image.jpg]({{site.baseurl}}/images/prints/p.480-1937.jpg){: .img-fluid }
 
 {% include texts/kunp480.md %}
 
-P.480-1937
+PCollections Record: P.480-1937
 
 ![Kunisada Image.jpg]({{site.baseurl}}/images/prints/p.512-1937.jpg){: .img-fluid }
 
 {% include texts/kunp512.md %}
 
-P.512-1937
+Collections Record: P.512-1937
 
 ![Kunisada Image.jpg]({{site.baseurl}}/images/prints/p.517-1937.jpg){: .img-fluid }
 
 {% include texts/kunp517.md %}
 
-P.517-1937
+Collections Record: P.517-1937
 
-[moreinfo](/themes/segawa-kikunojo-V)
+[Learn more about Segawa Kikunojo V](/themes/segawa-kikunojo-V){: .btn .btn-dark .d-block }
