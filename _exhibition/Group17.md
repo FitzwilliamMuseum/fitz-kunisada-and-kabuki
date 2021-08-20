@@ -2,7 +2,7 @@
 title: "Prints of other (non actor) surimono by Kunisada"
 layout: default
 permalink: /exhibition/group-17
-image: /images/prints/p.489-1937.jpg
+image: /images/thumbnails/p.489-1937.jpg
 order: 19
 group: "Group 17"
 ---

@@ -3,7 +3,7 @@ permalink: /themes/fan-prints-one
 title: "Fan prints: examples"
 layout: default
 order: f
-image: /images/prints/kunisada_loan_405.jpg
+image: /images/thumbnails/kunisada_loan_405.jpg
 ---
 ![fan print](/images/prints/kunisada_loan_405.jpg){: .img-fluid }
 

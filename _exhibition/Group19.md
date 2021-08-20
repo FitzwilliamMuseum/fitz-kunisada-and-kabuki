@@ -2,7 +2,7 @@
 title: "Prints of Kumesaburo II"
 layout: default
 permalink: /exhibition/group-19
-image: /images/prints/p.489-1937.jpg
+image: /images/thumbnails/p.489-1937.jpg
 order: 21
 group: "Group 19"
 ---

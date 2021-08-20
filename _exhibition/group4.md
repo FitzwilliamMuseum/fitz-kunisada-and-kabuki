@@ -3,7 +3,7 @@ title: "Scabbards touching in Nakano Street"
 category: Kunisada
 permalink: /exhibition/group-4
 layout: default
-image: /images/prints/p.516-1937.jpg
+image: /images/thumbnails/p.516-1937.jpg
 order: 4
 group: Group 4
 ---

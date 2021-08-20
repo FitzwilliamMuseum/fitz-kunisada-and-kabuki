@@ -3,7 +3,7 @@ order: p
 title: Surimono and special printing effects
 layout: default
 permalink: /themes/surimono-and-special-printing-effects
-image: /images/prints/p.491-1937.jpg
+image: /images/thumbnails/p.491-1937.jpg
 ---
 
 ![P.491-1937.jpg (58938 bytes)](/images/prints/p.491-1937.jpg){: .img-fluid }

@@ -2,7 +2,7 @@
 title: 'Prints of Onoe Kikugoro III -  Surimono'
 layout: default
 permalink: /exhibition/group-16-part-3
-image: /images/prints/p.475-1937.jpg
+image: /images/thumbnails/p.475-1937.jpg
 order: 18
 group: Group 16 part 3
 ---

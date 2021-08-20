@@ -3,7 +3,7 @@ order: n
 layout: default
 permalink: /themes/ichikawa-danjuro-VIII
 title: Ichikawa Danjuro VIII
-image: /images/prints/kunisada_loan_499.jpg
+image: /images/thumbnails/kunisada_loan_499.jpg
 theme: Actor
 ---
 

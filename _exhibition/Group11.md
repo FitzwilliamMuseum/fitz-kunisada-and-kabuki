@@ -2,7 +2,7 @@
 category: Kunisada
 title: Mirror format prints
 layout: default
-image: /images/prints/p.78-1999.jpg
+image: /images/thumbnails/p.78-1999.jpg
 permalink: /exhibition/group-11
 order: 12
 group: "Group 11"

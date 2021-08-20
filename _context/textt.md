@@ -3,7 +3,7 @@ title: Nakamura Shikan IV
 layout: default
 permalink: /themes/nakamura-shikan-IV
 order: t
-image: /images/prints/p.81-1999.jpg
+image: /images/thumbnails/p.81-1999.jpg
 ---
 ## [Nakamura Shikan IV](/exhibition/group-21)
 

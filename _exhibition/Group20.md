@@ -2,7 +2,7 @@
 title: "Prints of Nakamura Shikan II (Utaemon IV)"
 layout: default
 permalink: /exhibition/group-20
-image: /images/prints/p.489-1937.jpg
+image: /images/thumbnails/p.489-1937.jpg
 order: 22
 group: "Group 20"
 ---

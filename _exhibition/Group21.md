@@ -2,7 +2,7 @@
 title: "Prints of Nakamura Shikan IV"
 layout: default
 permalink: /exhibition/group-21
-image: /images/prints/p.81-1999.jpg
+image: /images/thumbnails/p.81-1999.jpg
 order: 23
 group: "Group 21"
 ---

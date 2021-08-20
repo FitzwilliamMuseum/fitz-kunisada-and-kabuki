@@ -3,7 +3,7 @@ order: j
 title: "'True Likenesses' (nigao)"
 layout: default
 permalink: /themes/true-likenesses
-image: /images/prints/p.516-1937.jpg
+image: /images/thumbnails/p.516-1937.jpg
 ---
 
 In the early Edo period the only distinguishing features of an actor's identity in a portrait-print were pose, costume, and the actor's family crest [(_mon_)](/themes/actors-names-and-crests). Little attempt was made to capture his individual likeness until the 1760s, when Shunsho (1726-92) introduced the idea of 'true likenesses' (_nigao_), whereby an actor could be made recognisable from a few keenly observed features. These would then be repeated in other portraits of the same actor, including those by different artists.

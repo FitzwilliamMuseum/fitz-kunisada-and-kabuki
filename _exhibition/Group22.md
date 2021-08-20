@@ -2,7 +2,7 @@
 title: "Prints of the Kisokaido (Kiso Highway)"
 layout: default
 permalink: /exhibition/group-22
-image: /images/prints/p.63-1999.jpg
+image: /images/thumbnails/p.63-1999.jpg
 order: 24
 group: "Group 22"
 ---

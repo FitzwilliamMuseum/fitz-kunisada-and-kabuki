@@ -2,7 +2,7 @@
 category: Kunisada
 title: Prints of Danjuro VII 1819-1838
 permalink: /exhibition/group-8-part-1
-image: /images/prints/kunisada_loan_148.jpg
+image: /images/thumbnails/kunisada_loan_148.jpg
 layout: default
 order: 8
 group: "Group 8, Part 1"

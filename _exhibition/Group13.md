@@ -2,7 +2,7 @@
 title: Actors backstage
 permalink: /exhibition/group-13
 layout: default
-image: /images/prints/p.87-1999.jpg
+image: /images/thumbnails/p.87-1999.jpg
 order: 14
 group: "Group 13"
 ---

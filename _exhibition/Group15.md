@@ -2,7 +2,7 @@
 title: The Three Heroes of the Kingdom of Shu
 layout: default
 permalink: /exhibition/group-15
-image: /images/prints/p.76-1999.jpg
+image: /images/thumbnails/p.76-1999.jpg
 order: 16
 group: "Group 15"
 ---

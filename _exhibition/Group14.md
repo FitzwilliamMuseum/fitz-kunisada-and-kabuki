@@ -2,7 +2,7 @@
 title: Kagekiyo
 permalink: /exhibition/group-14
 layout: default
-image: /images/prints/p.60-1999.jpg
+image: /images/thumbnails/p.60-1999.jpg
 order: 15
 group: "Group 14"
 ---

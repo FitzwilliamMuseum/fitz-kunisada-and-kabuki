@@ -3,7 +3,7 @@ title: Actors in private life
 category: Kunisada
 layout: default
 permalink: /exhibition/group-9
-image: /images/prints/kunisada_loan_206.jpg
+image: /images/thumbnails/kunisada_loan_206.jpg
 order: 11
 group: "Group 9"
 ---

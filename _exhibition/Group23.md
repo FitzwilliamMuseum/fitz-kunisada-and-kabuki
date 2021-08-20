@@ -2,7 +2,7 @@
 title: "Tale of Eight Dogs"
 layout: default
 permalink: /exhibition/group-23
-image: /images/prints/p.65-1999.jpg
+image: /images/thumbnails/p.65-1999.jpg
 order: 25
 group: "Group 23"
 ---

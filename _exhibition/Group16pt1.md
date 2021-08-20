@@ -2,7 +2,7 @@
 title: Prints of Onoe Kikugoro III
 layout: default
 permalink: /exhibition/group-16-part-1
-image: /images/prints/kunisada_loan_220.jpg
+image: /images/thumbnails/kunisada_loan_220.jpg
 order: 17
 group: "Group 16, Part 1"
 ---

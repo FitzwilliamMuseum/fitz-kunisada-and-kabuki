@@ -3,7 +3,7 @@ title: Round-mirror format prints
 permalink: /themes/round-mirror-format-prints
 layout: default
 order: l
-image: /images/prints/kunisada_loan_379.jpg
+image: /images/thumbnails/kunisada_loan_379.jpg
 ---
 
 Print artists occasionally designed compositions that showed a beauty or an actor from behind with their face visible in a mirror. Sometimes the face in the mirror was of a figure not otherwise visible in the print. Artists also experimented with designs that consisted of no more than a mirror with a face reflected in it. The latter format appealed to Kunisada, who used it for the first time in the early 1820s for a distinguished set of beauties reflected in round hand mirrors.

@@ -3,7 +3,7 @@ permalink: /themes/how-to-read-an-actor-print
 title: How to read an actor print 
 layout: default
 order: h
-image: /images/prints/kunisada_loan_148.jpg
+image: /images/thumbnails/kunisada_loan_148.jpg
 ---
 
 This print was issued commercially in the autumn of 1831. It is laden with visual and textual information for the viewer to process. The following notes indicate some of the ways in which this print would have been read when first offered for sale.

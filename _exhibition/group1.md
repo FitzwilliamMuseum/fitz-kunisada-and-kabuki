@@ -3,7 +3,7 @@ title: Tokaido
 category: Kunisada
 permalink: /exhibition/group-1
 layout: default
-image: /images/prints/p.55-1999.jpg
+image: /images/thumbnails/p.55-1999.jpg
 order: 1
 group: Group 1
 ---

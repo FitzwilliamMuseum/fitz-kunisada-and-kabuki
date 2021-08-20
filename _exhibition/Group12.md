@@ -2,7 +2,7 @@
 category: Kunisada
 title: Ichikawa Danjuro VIII
 layout: default
-image: /images/prints/p.66-1999.jpg
+image: /images/thumbnails/p.66-1999.jpg
 permalink: /exhibition/group-12
 order: 13
 group: "Group 12"

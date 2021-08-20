@@ -3,7 +3,7 @@ permalink: /themes/textE
 title: Ichikawa Danjuro VII
 layout: default
 order: e
-image: /images/prints/p.475-1937.jpg
+image: /images/thumbnails/p.475-1937.jpg
 ---
 Danjuro VII (1791-1859) was the most popular of nineteenth-century Kabuki actors. He made his stage debut at the age of four and went on to astonish the public with his ability to handle every major type of role. He was particularly noted for his portrayal of audacious young heroes in the 'rough-stuff' (_aragoto_) acting style established by the [Ichikawa lineage.](/themes/actors-names-and-crests) He became wealthy and constructed an ostentatious villa with extensive gardens in Edo (Tokyo). In the summer of 1842 he was arrested and found guilty of violating the sumptuary laws. His home was demolished and he was banished from Edo until 1850. Four years later his eldest son ([Danjuro VIII](/exhibition/group-12), 1823-1854) committed suicide. His father was devastated but continued to act until his death in 1859.  
 

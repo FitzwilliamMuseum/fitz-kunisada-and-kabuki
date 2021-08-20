@@ -3,7 +3,7 @@ category: Kunisada
 title: Danjuro VII surimono
 permalink: /exhibition/group-8-part-3
 layout: default
-image: /images/prints/p.516-1937.jpg
+image: /images/thumbnails/p.516-1937.jpg
 order: 10
 group: "Group 8, Part 3"
 ---

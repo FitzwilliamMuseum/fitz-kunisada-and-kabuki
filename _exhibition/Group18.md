@@ -2,7 +2,7 @@
 title: "Prints of Danjuro IX"
 layout: default
 permalink: /exhibition/group-18
-image: /images/prints/p.74-1999.jpg
+image: /images/thumbnails/p.74-1999.jpg
 order: 20
 group: "Group 18"
 ---

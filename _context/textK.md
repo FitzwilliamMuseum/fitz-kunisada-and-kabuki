@@ -2,7 +2,7 @@
 title: "The reuse of printing blocks"
 permalink: "/themes/the-reuse-of-printing-blocks"
 layout: default
-image: /images/prints/kunisada_loan_s220.jpg
+image: /images/thumbnails/kunisada_loan_s220.jpg
 order: k
 ---
 

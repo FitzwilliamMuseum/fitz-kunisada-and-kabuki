@@ -3,7 +3,7 @@ order: o
 title: Ichikawa Danjuro IX
 layout: default
 permalink: /themes/ichikawa-danjuro-IX
-image: /images/prints/p.74-1999.jpg
+image: /images/thumbnails/p.74-1999.jpg
 ---
 
 ## [Ichikawa Danjuro IX](/exhibition/group-18)

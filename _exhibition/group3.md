@@ -3,7 +3,7 @@ title: 'Sugawara and the Secrets of Calligraphy'
 category: Kunisada
 permalink: /exhibition/group-3
 layout: default
-image: /images/prints/kunisada_loan_148.jpg
+image: /images/thumbnails/kunisada_loan_148.jpg
 order: 3
 group: Group 3
 ---

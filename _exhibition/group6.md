@@ -3,7 +3,7 @@ category: Kunisada
 title: Soga Plays
 permalink: /exhibition/group-6
 layout: default
-image: /images/prints/kunisada_loan_272.jpg
+image: /images/thumbnails/kunisada_loan_272.jpg
 order: 6
 group: Group 6
 ---

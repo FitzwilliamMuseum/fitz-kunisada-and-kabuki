@@ -3,7 +3,7 @@ title: "Shibaraku!"
 category: Kunisada
 permalink: /exhibition/group-2
 layout: default
-image: /images/prints/kunisada_loan_499.jpg
+image: /images/thumbnails/kunisada_loan_499.jpg
 order: 2
 group: Group 2
 ---
