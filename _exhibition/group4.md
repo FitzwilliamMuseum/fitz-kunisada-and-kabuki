@@ -12,14 +12,19 @@ group: Group 4
 
 **Ichikawa Danjuro VII as Fuwa Banzaemon (right), Onoe Kikugoro III as Nagoya Sanza (centre) and Segawa Kikunojo V as the courtesan Katsuragi (left)**
 
-Ichikawa Danjuro VII as Fuwa Banzaemon (right), Onoe Kikugoro III as Nagoya Sanza (centre) and Segawa Kikunojo V as the courtesan Katsuragi (left)in _Ukiyo-zuka hiyoku no inazuma_ (Ukiyo's sword hilt, a double grave mound and the mark of the lightning bolt) performed at the Ichimura theatre in 03/1823**Private collection
+Ichikawa Danjuro VII as Fuwa Banzaemon (right), Onoe Kikugoro III as Nagoya Sanza (centre) and Segawa Kikunojo V as the courtesan Katsuragi (left)in _Ukiyo-zuka hiyoku no inazuma_ (Ukiyo's sword hilt, a double grave mound and the mark of the lightning bolt) performed at the Ichimura theatre in 03/1823
+
+Private collection
 
 This famous _Saya-ate_ ('Scabbards clashing') confrontation scene occurs in the third act of the play, which was written for these performers and first performed in this production in 1823. The idea derived both from the established Kabuki convention of a _Saya-ate_ scene, and from the 1807 novel by Santo Kyoden, _Mukashi banashi inazuma hyoshi_ (An Old Time Lightning Bolt Tale). Fuwa Banzaemon carries a sword named **'Thunder'** and wears a kimono decorated with a pattern of **'lightning-in-the-clouds'**.
 
 His rival Nagoya Sanzaburo (Sanza for short) carries a sword named 'Amorous Swallows' and wears a kimono decorated with a 'swallows-in-the-rain' pattern. Unaware of each other, they make simultaneous entrances along the two raised passageways (_hanamichi_) through the audience. As they pass on the main stage (which represents Nakano Street in the Yoshiwara pleasure district at cherry blossom time), their sword hilts clash. They exchange insults, remove their green sedge travelling-hats, recognize one another and draw swords to fight over the courtesan Katsuragi. Katsuragi rushes forward and persuades them to call a truce.
 
+----
 ![Kunisada Loan ]({{site.baseurl}}/images/prints/p.474-1937.jpg){: .img-fluid }
 ![Kunisada Loan ]({{site.baseurl}}/images/prints/p.475-1937.jpg){: .img-fluid }
+
+<iframe src="https://data.fitzmuseum.cam.ac.uk/uv.html#?manifest=https://api.fitz.ms/data-distributor/iiif/object-182354/manifest&c=0&m=0&cv=0&config=https://data.fitzmuseum.cam.ac.uk/config.json&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),sv-SE:Svenska,xx-XX:English (GB) (xx-XX)&xywh=-4205,0,12448,5140&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
 **Ichikawa Danjuro VII as Fuwa Banzaemon (right) and Onoe Kikugoro III as Nagoya Sanza in _Sato no haru meibutsu amigasa_ (Famous sedge hats during spring in Yoshiwara) performed at the Kawarazaki theatre in 01/1827**
 
@@ -31,21 +36,30 @@ His rival Nagoya Sanza carries a sword named Amorous Swallows and wears a kimono
 
 It seems that Danjuro VII was only recruited for this performance after a fire prevented him from appearing as Kagekiyo at the Ichimura theatre
 
+Collections records: [P.474-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182354) & [P.475-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182353)
+
+-----
+
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.515-1937.jpg){: .img-fluid }
 
 {% include texts/textp514515.md %}
 
-Collections Record: P.515-1937
+Collections Record: [P.515-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182380)
+
+----
 
 ![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_290.jpg){: .img-fluid }
 
 {% include texts/lightningbolts.md %}
 
+----
 ![Kunisada Image]({{site.baseurl}}/images/prints/p.516-1937.jpg){: .img-fluid }
 
 {% include texts/text516.md %}
 
-Collections Record: P.516-1937
+Collections Record: [P.516-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182381)
+
+----
 
 ![Kunisada Loan ]({{site.baseurl}}/images/prints/kunisada_loan_252.jpg){: .img-fluid }
 
