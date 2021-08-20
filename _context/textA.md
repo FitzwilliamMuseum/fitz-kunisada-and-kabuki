@@ -5,7 +5,7 @@ layout: default
 order: a
 image: /images/prints/p.188-1946.jpg
 ---
-![Night view of Saruwaka Street by Utagawa Hiroshige](/images/prints/p.188-1946.jpg)  
+![Night view of Saruwaka Street by Utagawa Hiroshige](/images/prints/p.188-1946.jpg){: .img-fluid }  
 
 **'Night view of Saruwaka Street' by Utagawa Hiroshige**
 

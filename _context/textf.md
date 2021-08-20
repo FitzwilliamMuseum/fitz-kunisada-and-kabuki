@@ -5,11 +5,11 @@ layout: default
 order: f
 image: /images/prints/kunisada_loan_405.jpg
 ---
-![fan print](/images/prints/kunisada_loan_405.jpg)
+![fan print](/images/prints/kunisada_loan_405.jpg){: .img-fluid }
 
 {% include texts/kun405.md %}
 
-![fan print](/images/prints/kunisada_loan_406.jpg)
+![fan print](/images/prints/kunisada_loan_406.jpg){: .img-fluid }
 
 {% include texts/kun406.md %}
 
