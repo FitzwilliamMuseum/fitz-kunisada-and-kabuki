@@ -19,15 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Kunisada & Kabuki"
-email: "crsid@cam.ac.uk"
+email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Website description"
+  "A revamped website for the 2001 Kunisada and Kabuki Fitzwilliam Museum exhibition"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kunisada-and-kabuki.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 collection_url: "https://data.fitzmuseum.cam.ac.uk"
 main_url: "https://fitzmuseum.cam.ac.uk"
+image: /images/prints/japanese_theatre_interior_high_res.jpg
 background: "/images/prints/japanese_theatre_interior_high_res.jpg"
 google_analytics: 'G-2R0YLY9DRS'
 # Build settings
