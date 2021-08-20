@@ -11,16 +11,20 @@ group: "Group 22"
 
 {% include texts/textp63.md %}
 
-Collections Record: P.63-1999
+Collections Record: [P.63-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9456)
+
+----
 
 ![Kunisada Image](/images/prints/p.64-1999.jpg){: .img-fluid }
 
 {% include texts/textp64.md %}
 
-Collections Record: P.64-1999
+Collections Record: [P.64-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9457)
+
+----
 
 ![Kunisada Image](/images/prints/p.65-1999.jpg){: .img-fluid }
 
 {% include texts/textp65.md %}
 
-Collections Record: P.65-1999
+Collections Record: [P.65-1999](https://data.fitzmuseum.cam.ac.uk/id/object/9458)
