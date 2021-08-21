@@ -188,7 +188,7 @@ Collections Record: [P.480-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182
 
 ----
 
-![Ichikawa Danjuro VII as Kan Shojo]({{site.baseurl}}/images/prints/p.512-1937.jpg){: .img-fluid }
+![Ichikawa Danjuro VII as Kan Shojo](https://data.fitzmuseum.cam.ac.uk/imagestore/pdp/pdp82/P_512_1937_dc2.jpg){: .img-fluid }
 
 **Ichikawa Danjuro VII as Kan Shojo (top) and Segawa Kikunojo V as Umeomaru (bottom) in _Sugawara denju tenarai kagami_ (Sugawara and the secrets of calligraphy) performed at the Kawarazaki theatre in 09/1832**{: .text-info }
 
