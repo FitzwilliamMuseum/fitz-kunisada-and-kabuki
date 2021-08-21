@@ -203,7 +203,8 @@ Collections Record: P.113-1994
 
 <iframe src="https://data.fitzmuseum.cam.ac.uk/uv.html#?manifest=https://api.fitz.ms/data-distributor/iiif/object-182367/manifest&c=0&m=0&cv=0&config=https://data.fitzmuseum.cam.ac.uk/config.json&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),sv-SE:Svenska,xx-XX:English (GB) (xx-XX)&xywh=-4424,0,12711,5248&r=0" width="100%" height="600" allowfullscreen frameborder="0"></iframe>
 
-**Ichikawa Danjuro VII as a medicine seller in front of a cartouche of Danjuro IV as Kagekiyo**
+**Ichikawa Danjuro VII as a medicine seller in front of a cartouche of Danjuro IV as Kagekiyo**{: .text-info }
+
 _Kunisada 71_
 
 Given to the Fitzwilliam Museum by E. Evelyn Barron in 1937
