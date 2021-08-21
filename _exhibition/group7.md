@@ -84,7 +84,7 @@ Loan 272
 
 ![Segawa Kikunojo V as Oiso no Tora Gozen]({{site.baseurl}}/images/prints/kunisada_loan_310.jpg){: .img-fluid }
 
-**Segawa Kikunojo V as Oiso no Tora Gozen**  
+**Segawa Kikunojo V as Oiso no Tora Gozen**{: .text-info }
 
 _Kunisada 12_  
 
@@ -154,7 +154,7 @@ Loan 406
 
 ![Utagawa Kunisada II]({{site.baseurl}}/images/prints/p.68-1999.jpg){: .img-fluid }
 
-**Utagawa Kunisada II (1823-80)** {: .text-onfo }
+**Utagawa Kunisada II (1823-80)** {: .text-info }
 _Kunisada 45_
 
 _Ama Myochin_ (The nun Myochin)
@@ -206,7 +206,7 @@ Collections Record: [P.512-1937](https://data.fitzmuseum.cam.ac.uk/id/object/182
 
 ![Kunisada Image.jpg]({{site.baseurl}}/images/prints/p.517-1937.jpg){: .img-fluid }
 
-**Ichikawa Danjuro VII as a pilgrim with Segawa Kikunojo V as a shrine dancer** {: .text-info }
+**Ichikawa Danjuro VII as a pilgrim with Segawa Kikunojo V as a shrine dancer**{: .text-info }
 
 _Kunisada 76_
 
