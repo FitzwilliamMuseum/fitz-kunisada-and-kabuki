@@ -1,5 +1,5 @@
 ---
-permalink: /themes/textE
+permalink: /themes/Ichikawa-Danjuro-VII
 title: Ichikawa Danjuro VII
 layout: default
 order: e
