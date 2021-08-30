@@ -48,10 +48,11 @@ rights: GPL
 collections:
    exhibition:
       output: true
-   explore:
+   content:
       output: true
    context:
       output: true
+
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"
