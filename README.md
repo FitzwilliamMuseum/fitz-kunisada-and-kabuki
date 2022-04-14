@@ -1,5 +1,8 @@
 # Kunisada and Kabuki
 
+[![DOI](https://zenodo.org/badge/394297348.svg)](https://zenodo.org/badge/latestdoi/394297348)
+
+
 This repository holds a migrated HTML to Jekyll website, originally created in 2001. The content was extracted from hard coded HTML files and parsed into markdown and this more sustainable architecture was created.
 
 
