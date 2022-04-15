@@ -2,6 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/394297348.svg)](https://zenodo.org/badge/latestdoi/394297348)
 
+![Social image](https://repository-images.githubusercontent.com/394297348/82b618bc-6e93-4b39-a2c5-59f83a7196ea)
 
 This repository holds a migrated HTML to Jekyll website, originally created in 2001. The content was extracted from hard coded HTML files and parsed into markdown and this more sustainable architecture was created.
 
