@@ -30,7 +30,7 @@ collection_url: "https://data.fitzmuseum.cam.ac.uk"
 main_url: "https://fitzmuseum.cam.ac.uk"
 image: /images/prints/japanese_theatre_interior_high_res.jpg
 background: "/images/prints/japanese_theatre_interior_high_res.jpg"
-google_analytics: 'G-2R0YLY9DRS'
+#google_analytics: 'G-2R0YLY9DRS'
 # Build settings
 plugins:
   - jekyll-feed
